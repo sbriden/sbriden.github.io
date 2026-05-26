@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-# Services
-
 ## Data & Analytics Strategy
 
 Helping organizations define scalable enterprise data strategies aligned to business priorities.
