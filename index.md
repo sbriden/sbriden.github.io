@@ -28,7 +28,7 @@ Aligning data engineering, analytics, governance, and business teams into scalab
 
 ### [{{ post.title }}]({{ post.url }})
 
-{{ post.content | strip_html | split: ". " | first }}.
+{{ post.content | strip_html | remove: post.title | truncate: 200 }}.
 
 {% endfor %}
 
