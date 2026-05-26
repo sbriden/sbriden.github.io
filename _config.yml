@@ -4,6 +4,12 @@ theme: minima
 
 markdown: kramdown
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: /assets/main.css
+
 header_pages:
   - about.md
   - services.md
