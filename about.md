@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 I specialize in enterprise data and analytics strategy, helping organizations modernize reporting platforms, design scalable data architectures, and build sustainable analytics operating models.
 
 My experience includes:
