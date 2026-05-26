@@ -3,13 +3,9 @@ layout: home
 title: Home
 ---
 
-<div class="hero">
-
 # Modern Data & Analytics Strategy
 
 Helping organizations design scalable data platforms, modernize reporting ecosystems, and align analytics with business outcomes.
-
-</div>
 
 ---
 
@@ -28,19 +24,13 @@ Aligning data engineering, analytics, governance, and business teams into scalab
 
 ## Featured Insights
 
-<div class="featured-posts">
-
 {% for post in site.posts limit:3 %}
 
 ### [{{ post.title }}]({{ post.url }})
 
 {{ post.content | strip_html | split: ". " | first }}.
 
-<br>
-
 {% endfor %}
-
-</div>
 
 ---
 
