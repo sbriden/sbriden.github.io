@@ -2,6 +2,8 @@ title: Scott Briden
 description: Enterprise Data & Analytics Strategy
 theme: minima
 
+markdown: kramdown
+
 header_pages:
   - about.md
   - services.md
