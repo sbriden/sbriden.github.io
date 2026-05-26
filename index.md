@@ -7,7 +7,7 @@ title: Home
 
 Helping organizations design scalable data platforms, modernize reporting ecosystems, and align analytics with business outcomes.
 
-[Read the Blog](blog.md)
+[Read the Blog](blog.html)
 
 [Contact Me](contact.md)
 
