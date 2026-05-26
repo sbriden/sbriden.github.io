@@ -51,4 +51,4 @@ I help organizations:
 - Improve KPI consistency and reporting trust  
 - Align data teams with business strategy  
 
-📩 Contact: /contact/
+📩 Contact: [Contact]({{ '/contact/' | relative_url }})
