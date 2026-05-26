@@ -4,14 +4,13 @@ theme: minima
 
 markdown: kramdown
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      css: /assets/main.css
+plugins:
+  - jekyll-feed
 
 header_pages:
   - about.md
   - services.md
   - blog.html
   - contact.md
+
+show_excerpts: false
