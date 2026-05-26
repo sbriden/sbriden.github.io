@@ -7,5 +7,5 @@ markdown: kramdown
 header_pages:
   - about.md
   - services.md
-  - blog.md
+  - blog.html
   - contact.md
