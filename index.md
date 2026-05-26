@@ -3,67 +3,62 @@ layout: home
 title: Home
 ---
 
+<div class="hero">
+
 # Modern Data & Analytics Strategy
 
 Helping organizations design scalable data platforms, modernize reporting ecosystems, and align analytics with business outcomes.
 
-[Read the Blog](blog.html)
-
-[Contact Me](contact.md)
+</div>
 
 ---
 
-# What I Do
+## What I Do
 
-## Data Lakehouse Architecture
+### Data Lakehouse Architecture
+Designing modern data platforms using medallion architecture principles that support enterprise reporting, analytics, governance, and AI readiness.
 
-Designing modern data platforms using scalable medallion architecture principles that support enterprise reporting, analytics, governance, and AI initiatives.
+### Analytics & BI Strategy
+Modernizing reporting ecosystems, improving KPI consistency, and building trusted enterprise business intelligence.
 
-## Analytics & BI Strategy
-
-Helping organizations modernize reporting ecosystems, improve KPI consistency, and build trusted business intelligence solutions.
-
-## Data Organization & Operating Models
-
-Aligning data engineering, analytics, governance, and business teams to create sustainable enterprise analytics organizations.
+### Data Organization & Operating Models
+Aligning data engineering, analytics, governance, and business teams into scalable operating models.
 
 ---
 
-# Areas of Expertise
+## Featured Insights
 
-- Data Lakehouse Architecture
-- Medallion Architecture
-- Data Strategy
-- Business Intelligence Modernization
-- Enterprise Reporting
-- Data Governance
-- Analytics Operating Models
-- KPI Standardization
-- Data Engineering
-- Cloud Analytics Platforms
-- SQL & Data Modeling
-- Executive Data Strategy
+<div class="featured-posts">
 
----
+{% for post in site.posts limit:3 %}
 
-# Featured Blog Posts
+### [{{ post.title }}]({{ post.url }})
 
-## Understanding Medallion Architecture
+{{ post.content | strip_html | split: ". " | first }}.
 
-A practical guide to structuring bronze, silver, and gold layers in a modern data lakehouse.
+<br>
 
-## Why Most Data Lakes Fail
+{% endfor %}
 
-Exploring the operational and organizational issues that cause enterprise data initiatives to stall.
-
-## Designing a Modern Analytics Organization
-
-How to structure teams, responsibilities, and ownership across enterprise data organizations.
+</div>
 
 ---
 
-# Closing Thoughts
+## Why This Matters
 
-Modern analytics is more than technology.
+Most data programs fail not because of technology — but because of misalignment between architecture, governance, and business outcomes.
 
-Successful organizations align architecture, governance, engineering, and business strategy to create trusted and scalable data ecosystems.
+Successful organizations treat data as a product, not a pipeline.
+
+---
+
+## Work With Me
+
+I help organizations:
+
+- Modernize legacy data warehouses into lakehouse architectures  
+- Design scalable analytics operating models  
+- Improve KPI consistency and reporting trust  
+- Align data teams with business strategy  
+
+📩 Contact: /contact/
