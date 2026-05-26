@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Scott Briden's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Scott Briden
+description: Enterprise Data & Analytics Strategy
+theme: minima
+
+header_pages:
+  - about.md
+  - services.md
+  - blog.md
+  - contact.md
