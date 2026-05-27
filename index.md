@@ -22,6 +22,14 @@ Aligning data engineering, analytics, governance, and business teams into scalab
 
 ---
 
+## Why This Matters
+
+Most data programs fail not because of technology — but because of misalignment between architecture, governance, and business outcomes.
+
+Successful organizations treat data as a product, not a pipeline.
+
+---
+
 ## Featured Insights
 
 {% for post in site.posts limit:3 %}
@@ -34,21 +42,8 @@ Aligning data engineering, analytics, governance, and business teams into scalab
 
 ---
 
-## Why This Matters
-
-Most data programs fail not because of technology — but because of misalignment between architecture, governance, and business outcomes.
-
-Successful organizations treat data as a product, not a pipeline.
-
----
-
 ## Work With Me
 
-I help organizations:
+Interested in data strategy, lakehouse architecture, or analytics modernization?
 
-- Modernize legacy data warehouses into lakehouse architectures  
-- Design scalable analytics operating models  
-- Improve KPI consistency and reporting trust  
-- Align data teams with business strategy  
-
-📩 Contact: [Contact]({{ '/contact/' | relative_url }})
+👉 [Get in touch]({{ '/contact/' | relative_url }})
