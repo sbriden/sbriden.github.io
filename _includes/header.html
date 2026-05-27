@@ -1,17 +1,18 @@
 <header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">
+  <div class="nav-container">
+
+    <a class="site-logo" href="{{ '/' | relative_url }}">
       {{ site.title }}
     </a>
 
     <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.title and page.permalink != '/' %}
-          <a href="{{ page.url | relative_url }}">
-            {{ page.title }}
-          </a>
-        {% endif %}
-      {% endfor %}
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/services/' | relative_url }}">Services</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <a class="contact-button" href="{{ '/contact/' | relative_url }}">
+        Contact
+      </a>
     </nav>
+
   </div>
 </header>
