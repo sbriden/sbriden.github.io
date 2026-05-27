@@ -34,7 +34,7 @@ title: Home
   <div class="hero-right">
 
     <img
-      src="{{ '/assets/headshot.jpg' | relative_url }}"
+      src="{{ '/assets/headshot.png' | relative_url }}"
       alt="Scott Briden"
       class="headshot"
     >
