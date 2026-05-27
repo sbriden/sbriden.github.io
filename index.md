@@ -43,6 +43,23 @@ title: Home
 
 </section>
 
+---
+
+## Experience & Focus
+
+- Enterprise data and analytics leadership
+- Data lakehouse architecture and modernization
+- Business intelligence strategy
+- KPI governance and reporting ecosystems
+- Analytics operating model design
+- Executive stakeholder alignment
+
+### Industries
+
+- Insurance
+- Enterprise analytics
+- Data modernization initiatives
+
 ## What I Do
 
 ### Data Lakehouse Architecture
