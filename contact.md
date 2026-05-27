@@ -10,7 +10,7 @@ Connect with me on LinkedIn or reach out directly.
 
 ## Email
 
-sbriden.7518@gmail.com
+[sbriden.7518@gmail.com](mailto:sbriden.7518@gmail.com)
 
 ## LinkedIn
 
