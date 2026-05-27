@@ -14,4 +14,4 @@ sbriden.7518@gmail.com
 
 ## LinkedIn
 
-[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/scott-briden/)
+[https://linkedin.com/in/scott-briden](https://www.linkedin.com/in/scott-briden/)
