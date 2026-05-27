@@ -1,8 +1,35 @@
-.hero {
-  padding: 40px 20px;
+/* HERO SECTION */
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  padding: 70px 20px;
+}
+
+.hero-left {
+  flex: 1;
+}
+
+.hero-right {
+  flex-shrink: 0;
+}
+
+.positioning-bar {
+  margin: 25px 0;
+  padding: 12px 18px;
+  background: #edf2f7;
   border-left: 4px solid #2b6cb0;
-  background: #f8fafc;
-  margin-bottom: 30px;
+  border-radius: 6px;
+  font-weight: 500;
+  color: #2d3748;
+}
+
+.headshot {
+  width: 260px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
 }
 
 .featured-posts h3 {
