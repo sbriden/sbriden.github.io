@@ -9,24 +9,151 @@
   margin-top: 25px;
 }
 
+/* Base Layout */
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-  line-height: 1.6;
+  line-height: 1.7;
   color: #1a202c;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main Content */
+
+.page-content {
   max-width: 900px;
   margin: auto;
-  padding: 20px;
+  padding: 40px 20px;
 }
+
+/* Header */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  z-index: 1000;
+}
+
+.nav-container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 18px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Logo */
+
+.site-logo {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a365d;
+  text-decoration: none;
+}
+
+/* Navigation */
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #2d3748;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover {
+  color: #2b6cb0;
+}
+
+/* Contact Button */
+
+.contact-button {
+  background: #2b6cb0;
+  color: white !important;
+  padding: 10px 16px;
+  border-radius: 8px;
+}
+
+.contact-button:hover {
+  background: #1f4e8c;
+}
+
+/* Typography */
 
 h1, h2, h3 {
   color: #1a365d;
+  line-height: 1.25;
 }
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* Links */
 
 a {
   color: #2b6cb0;
-  text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Horizontal Rules */
+
+hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 40px 0;
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid #e2e8f0;
+  margin-top: 60px;
+  padding: 30px 20px;
+  text-align: center;
+  color: #718096;
+  font-size: 0.95rem;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+  .nav-container {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .site-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
 }
