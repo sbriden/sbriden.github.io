@@ -5,27 +5,41 @@ title: Home
 
 <section class="hero-section">
 
-<div class="hero-left">
+  <div class="hero-left">
 
-# Enterprise Data & Analytics Strategy
+    <h1>Enterprise Data & Analytics Strategy</h1>
 
-Helping organizations modernize data platforms, align analytics with business outcomes, and design scalable lakehouse ecosystems.
+    <p class="hero-text">
+      Helping organizations modernize data platforms,
+      align analytics with business outcomes,
+      and design scalable lakehouse ecosystems.
+    </p>
 
-<div class="positioning-bar">
+    <div class="positioning-bar">
+      Data Strategy • Lakehouse Architecture • BI Modernization • Analytics Operating Models
+    </div>
 
-Data Strategy • Lakehouse Architecture • BI Modernization • Analytics Operating Models
+    <div class="hero-buttons">
+      <a class="primary-button" href="{{ '/services/' | relative_url }}">
+        Explore Services
+      </a>
 
-</div>
+      <a class="secondary-button" href="{{ '/blog/' | relative_url }}">
+        Read Insights
+      </a>
+    </div>
 
-[Explore Services]({{ '/services/' | relative_url }})
+  </div>
 
-</div>
+  <div class="hero-right">
 
-<div class="hero-right">
+    <img
+      src="{{ '/assets/headshot.jpg' | relative_url }}"
+      alt="Scott Briden"
+      class="headshot"
+    >
 
-<img src="{{ '/assets/headshot.jpg' | relative_url }}" alt="Scott Briden" class="headshot">
-
-</div>
+  </div>
 
 </section>
 
