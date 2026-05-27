@@ -7,7 +7,7 @@ title: Home
 
   <div class="hero-left">
 
-    <h1>Enterprise Data & Analytics Strategy</h1>
+    <h1>Modern Data & Analytics Strategy</h1>
 
     <p class="hero-text">
       Helping organizations modernize data platforms,
@@ -42,12 +42,6 @@ title: Home
   </div>
 
 </section>
-
-# Modern Data & Analytics Strategy
-
-Helping organizations design scalable data platforms, modernize reporting ecosystems, and align analytics with business outcomes.
-
----
 
 ## What I Do
 
