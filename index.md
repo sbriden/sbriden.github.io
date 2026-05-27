@@ -60,16 +60,21 @@ title: Home
 - Enterprise analytics
 - Data modernization initiatives
 
-## What I Do
+---
 
-### Data Lakehouse Architecture
-Designing modern data platforms using medallion architecture principles that support enterprise reporting, analytics, governance, and AI readiness.
+## How I Work
 
-### Analytics & BI Strategy
-Modernizing reporting ecosystems, improving KPI consistency, and building trusted enterprise business intelligence.
+### 1. Assess
+Evaluate current-state architecture, reporting ecosystems, governance, and organizational alignment.
 
-### Data Organization & Operating Models
-Aligning data engineering, analytics, governance, and business teams into scalable operating models.
+### 2. Design
+Create scalable data platform strategies, operating models, and analytics roadmaps aligned to business priorities.
+
+### 3. Modernize
+Support modernization initiatives including lakehouse architecture, reporting transformation, and KPI standardization.
+
+### 4. Enable
+Help organizations establish sustainable analytics practices, governance models, and long-term scalability.
 
 ---
 
