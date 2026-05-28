@@ -34,11 +34,36 @@ title: Home
   <div class="hero-right">
 
     <img
-      src="{{ '/assets/headshot.png' | relative_url }}"
+      src="{{ '/assets/headshot.jpg' | relative_url }}"
       alt="Scott Briden"
       class="headshot"
     >
-
+  
+    <div class="credibility-panel">
+  
+      <div class="credibility-item">
+        <span class="credibility-number">10+</span>
+        <span class="credibility-label">
+          Years Enterprise Analytics Experience
+        </span>
+      </div>
+  
+      <div class="credibility-item">
+        <span class="credibility-number">Lakehouse</span>
+        <span class="credibility-label">
+          Architecture & Modernization Focus
+        </span>
+      </div>
+  
+      <div class="credibility-item">
+        <span class="credibility-number">Business + Technical</span>
+        <span class="credibility-label">
+          Strategy, Architecture, & Operating Models
+        </span>
+      </div>
+  
+    </div>
+  
   </div>
 
 </section>
