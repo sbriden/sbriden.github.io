@@ -42,16 +42,16 @@ title: Home
     <div class="credibility-panel">
   
       <div class="credibility-item">
-        <span class="credibility-number">10+</span>
+        <span class="credibility-number">10+ Years</span>
         <span class="credibility-label">
-          Years Enterprise Analytics Experience
+          Enterprise Analytics Experience
         </span>
       </div>
   
       <div class="credibility-item">
-        <span class="credibility-number">Lakehouse</span>
+        <span class="credibility-number">Lakehouse Architecture</span>
         <span class="credibility-label">
-          Architecture & Modernization Focus
+           & Modernization Focus
         </span>
       </div>
   
