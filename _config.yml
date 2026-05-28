@@ -6,5 +6,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 show_excerpts: false
