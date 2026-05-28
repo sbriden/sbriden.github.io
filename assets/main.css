@@ -13,7 +13,10 @@
 }
 
 .hero-right {
-  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
 }
 
 .hero-text {
@@ -21,6 +24,41 @@
   line-height: 1.8;
   color: #4a5568;
   max-width: 700px;
+}
+
+
+/* CREDIBILITY PANEL */
+
+.credibility-panel {
+  width: 280px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+}
+
+.credibility-item {
+  margin-bottom: 22px;
+}
+
+.credibility-item:last-child {
+  margin-bottom: 0;
+}
+
+.credibility-number {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2b6cb0;
+  margin-bottom: 6px;
+}
+
+.credibility-label {
+  display: block;
+  color: #4a5568;
+  line-height: 1.5;
+  font-size: 0.95rem;
 }
 
 .positioning-bar {
