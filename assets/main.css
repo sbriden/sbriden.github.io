@@ -286,4 +286,15 @@ hr {
     font-size: 2rem;
   }
 
+/* Dark Mode */
+  
+.dark-mode .credibility-panel {
+  background: #1f2937;
+  border-color: #374151;
+}
+
+.dark-mode .credibility-label {
+  color: #d1d5db;
+}
+
 }
