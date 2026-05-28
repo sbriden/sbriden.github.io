@@ -5,93 +5,197 @@ date: 2026-05-26
 categories: architecture analytics data
 ---
 
-Modern data platforms require structure, scalability, governance, and trust.
+# A Practical Example – How Data Actually Flows Through the Medallion Architecture
 
-One of the most effective approaches for organizing enterprise analytics platforms is the medallion architecture pattern.
+Sometimes the Medallion Architecture can feel overly theoretical when shown in diagrams. We see arrows moving between Bronze, Silver, and Gold, but what does this actually look like in practice?
 
-The medallion architecture separates data into layers:
+Let’s walk through a real-world example.
 
-- Bronze
-- Silver
-- Gold
+Imagine we work for a healthcare insurance company and leadership wants visibility into Claims Processing Performance.
 
-Each layer serves a distinct business and technical purpose.
+More specifically, they want to answer questions like:
+- How many claims are being processed each day?
+- What is the average processing time?
+- Which providers have the highest denial rates?
+- Are claims getting stuck at specific stages in the workflow?
+- Which regions are underperforming operationally?
 
----
+Seems straightforward enough.
 
-# Bronze Layer
+But once we begin looking under the hood, we quickly realize the data is coming from multiple systems:
+- Claims Management System
+- Provider Management System
+- Member Eligibility Platform
+- Workflow/Ticketing Application
+- Call Center System
 
-The bronze layer represents raw ingestion from source systems.
+And every one of those systems structures information differently.
 
-This layer should preserve source fidelity and maintain historical traceability.
+This is where the Medallion Architecture begins to shine.
 
-Typical characteristics include:
+# Bronze Layer Example – Capturing the Raw Operational Data
 
-- Minimal transformation
-- Append-only ingestion
-- Raw source preservation
-- Auditability
-- Historical tracking
+At the Bronze layer, we ingest raw data directly from all source systems.
 
-The bronze layer acts as the foundation of the platform.
+This may include:
+- Claim transaction tables
+- Provider records
+- Member eligibility snapshots
+- Workflow status logs
+- Call center interaction history
 
----
+At this stage, we are not overly concerned with making the data “pretty.”
 
-# Silver Layer
+The focus is:
+- ingest quickly
+- preserve history
+- maintain traceability
+- avoid losing information
 
-The silver layer is where data becomes standardized, validated, and business-ready.
+So our Bronze tables may look something like:
+- `bronze.claim_transactions`
+- `bronze.provider_master`
+- `bronze.member_eligibility`
+- `bronze.workflow_events`
+- `bronze.call_logs`
 
-Typical activities include:
+These tables likely still contain:
+- duplicate records
+- inconsistent naming conventions
+- null values
+- cryptic operational codes
+- inconsistent timestamps
 
-- Data cleansing
-- Standardization
-- Deduplication
-- Business rule application
-- Conformed dimensions
-- Data quality validation
+And that is perfectly fine for Bronze.
 
-This layer is often the operational heart of the lakehouse.
+For example:
 
----
+The claims system may identify a provider using `Provider_ID`.
+Another system may call it `Prov_Num`.
+A third may use an entirely different identifier altogether.
 
-# Gold Layer
+We do not solve that problem yet.
 
-The gold layer contains curated business-facing datasets optimized for analytics and reporting.
+Because the moment we start aggressively transforming data during ingestion, we increase the risk of losing important information needed later for troubleshooting or reprocessing.
 
-Typical use cases include:
+Bronze is about preserving operational truth.
 
-- Executive dashboards
-- KPI reporting
-- Self-service analytics
-- Semantic models
-- Aggregated business metrics
+# Silver Layer Example – Standardizing and Integrating the Enterprise
 
-The goal is simplicity and business usability.
+Now the engineering and business alignment work begins.
 
----
+In Silver, we start integrating and standardizing information across systems.
 
-# Why This Architecture Works
+This is where we may:
+- deduplicate providers
+- standardize member identifiers
+- align claim statuses
+- cleanse invalid records
+- apply business rules
+- create conformed dimensions
 
-The medallion approach creates clear separation between:
+For example, maybe different systems define claim statuses differently:
+- “In Process”
+- “Pending”
+- “Open”
+- “WIP”
 
-- Raw ingestion
-- Operational transformation
-- Business consumption
+Operationally, all four statuses may represent the same business state.
 
-This improves:
+Silver is where we standardize that logic into a governed definition.
 
-- Scalability
-- Governance
-- Reusability
-- Maintainability
-- Data trust
+Now instead of every dashboard team building their own interpretation of claim statuses, the enterprise uses one standardized version.
 
-Most importantly, it aligns technical implementation with business outcomes.
+We may create tables such as:
+- `silver.claims`
+- `silver.providers`
+- `silver.members`
+- `silver.claim_status_history`
 
----
+This is also where relationships between systems begin to form.
 
-# Final Thoughts
+For example:
 
-Successful analytics platforms are not built solely through technology.
+We may match provider information from the provider platform with claim activity from the claims system and workflow activity from the ticketing application.
 
-They succeed when architecture, governance, and business alignment work together to create trusted enterprise data ecosystems.
+Now we can finally answer enterprise-level questions consistently.
+
+One of the most valuable things Silver provides is reusability.
+
+Without Silver, every analytics team would repeatedly:
+- cleanse the same data
+- create the same joins
+- redefine the same metrics
+- solve the same data quality issues
+
+At scale, that becomes extremely inefficient.
+
+Silver centralizes those efforts.
+
+# Gold Layer Example – Delivering Business Outcomes
+
+Now we move into consumption.
+
+Executives do not want raw claim transactions.
+Operations managers do not want to interpret workflow event logs.
+Analysts should not need to join fifteen tables together every time they build a dashboard.
+
+Gold exists to simplify all of that.
+
+Here we may create:
+- `gold.claims_operational_summary`
+- `gold.provider_performance`
+- `gold.claims_denial_metrics`
+- `gold.executive_kpis`
+
+These datasets are purpose-built for specific business use cases.
+
+For example, the executive KPI table may already contain:
+- daily claims processed
+- average turnaround time
+- denial percentages
+- SLA compliance
+- trending metrics by region
+
+Optimized and ready for visualization tools like Tableau or Power BI.
+
+Meanwhile, a Data Science team may consume a separate Gold dataset specifically structured for machine learning:
+- historical claim patterns
+- provider risk scores
+- denial prediction features
+- processing duration trends
+
+Same underlying enterprise data.
+Different business purpose.
+Different Gold model.
+
+And this is one of the most important concepts in the Medallion Architecture:
+
+Gold is not one-size-fits-all.
+
+Gold should be designed around consumption patterns.
+
+# Where Organizations Often Struggle
+
+Now here is where many implementations begin to break down.
+
+Organizations often skip architectural discipline and start building directly from Bronze because it feels faster initially.
+
+And honestly… at first, it usually is faster.
+
+Until:
+- Finance numbers don’t match Operations
+- dashboards contradict each other
+- KPI definitions drift
+- business users lose trust
+- every report becomes a custom integration effort
+
+Suddenly the organization spends more time debating numbers than acting on insights.
+
+The Medallion Architecture prevents this by creating clear ownership at each stage of the data lifecycle.
+
+Bronze owns ingestion.
+Silver owns standardization.
+Gold owns business delivery.
+
+That separation is what creates scalability.
