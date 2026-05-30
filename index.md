@@ -123,18 +123,12 @@ Successful organizations treat data as a product, not a pipeline.
 
 ---
 
-## Work With Me
-
-Interested in data strategy, lakehouse architecture, or analytics modernization?
-
-👉 [Get in touch]({{ '/contact/' | relative_url }})
-
 <h2>Work With Me</h2>
 
 <p>
 Interested in data strategy, lakehouse architecture, analytics modernization, or organizational design?
 </p>
 
-<a class="primary-button" href="{{ '/contact/' | relative_url }}">
+<a class="cta-button" href="{{ '/contact/' | relative_url }}">
   Get In Touch
 </a>
