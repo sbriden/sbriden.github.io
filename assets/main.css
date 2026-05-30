@@ -107,6 +107,24 @@
   text-decoration: none;
 }
 
+.cta-button {
+  display: inline-block;
+  margin-top: 15px;
+  background: #2b6cb0;
+  color: white !important;
+  padding: 14px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.cta-button:hover {
+  background: #1f4e8c;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
 /* HEADSHOT */
 
 .headshot {
