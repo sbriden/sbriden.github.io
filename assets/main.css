@@ -77,6 +77,51 @@
   margin-top: 30px;
 }
 
+/* FEATURED INSIGHTS */
+
+.featured-insights {
+  margin-top: 60px;
+}
+
+.insight-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin-top: 30px;
+}
+
+.insight-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 24px;
+  background: #ffffff;
+  transition: all 0.2s ease;
+  height: 100%;
+}
+
+.insight-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.insight-card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.insight-card p {
+  color: #4a5568;
+  margin-bottom: 0;
+}
+
+.insight-card a {
+  text-decoration: none;
+}
+
+.insight-card a:hover {
+  text-decoration: none;
+}
+
 /* BUTTONS */
 
 .primary-button {
