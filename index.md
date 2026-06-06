@@ -68,25 +68,19 @@ title: Home
 
 ---
 
-## Experience & Focus
+## Bridging Business and Technology
 
-- Enterprise data and analytics leadership
-- Data lakehouse architecture and modernization
-- Business intelligence strategy
-- KPI governance and reporting ecosystems
-- Analytics operating model design
-- Executive stakeholder alignment
+Successful data initiatives require more than modern platforms.
 
-### Areas of Focus
+They require alignment between business priorities, governance, architecture, and analytics delivery.
 
-- Enterprise Data Strategy
-- Data Lakehouse Architecture
-- Analytics Modernization
-- Business Intelligence & Reporting
-- Data Governance
-- Analytics Operating Models
-- KPI Standardization
-- AI Enablement Through Data
+My work focuses on helping organizations:
+
+- Translate business objectives into data strategy
+- Design scalable data and analytics platforms
+- Establish governance and KPI consistency
+- Modernize reporting ecosystems
+- Build operating models that support long-term success
 
 ---
 
@@ -159,16 +153,6 @@ Successful organizations treat data as a product, not a pipeline.
   </div>
 
 </section>
-
-## Featured Insights
-
-{% for post in site.posts limit:3 %}
-
-### [{{ post.title }}]({{ post.url }})
-
-{{ post.content | strip_html | remove: post.title | truncate: 200 }}.
-
-{% endfor %}
 
 ---
 
