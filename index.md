@@ -10,9 +10,7 @@ title: Home
     <h1>Modern Data & Analytics Strategy</h1>
 
     <p class="hero-text">
-      Helping organizations modernize data platforms,
-      align analytics with business outcomes,
-      and design scalable lakehouse ecosystems.
+     Helping organizations modernize data and analytics capabilities through scalable architecture, trusted governance, and business-aligned operating models.
     </p>
 
     <div class="positioning-bar">
@@ -79,11 +77,16 @@ title: Home
 - Analytics operating model design
 - Executive stakeholder alignment
 
-### Industries
+### Areas of Focus
 
-- Insurance
-- Enterprise analytics
-- Data modernization initiatives
+- Enterprise Data Strategy
+- Data Lakehouse Architecture
+- Analytics Modernization
+- Business Intelligence & Reporting
+- Data Governance
+- Analytics Operating Models
+- KPI Standardization
+- AI Enablement Through Data
 
 ---
 
@@ -110,6 +113,52 @@ Most data programs fail not because of technology — but because of misalignmen
 Successful organizations treat data as a product, not a pipeline.
 
 ---
+
+<section class="featured-insights">
+
+  <h2>Latest Thinking</h2>
+
+  <div class="insight-grid">
+
+    <div class="insight-card">
+      <h3>
+        <a href="/your-medallion-post-url/">
+          Understanding Medallion Architecture
+        </a>
+      </h3>
+
+      <p>
+        A practical guide to structuring bronze, silver, and gold layers in a modern lakehouse architecture.
+      </p>
+    </div>
+
+    <div class="insight-card">
+      <h3>
+        <a href="/your-ai-post-url/">
+          Enabling AI Through Data
+        </a>
+      </h3>
+
+      <p>
+        Why successful AI initiatives begin with trusted, governed, and accessible enterprise data.
+      </p>
+    </div>
+
+    <div class="insight-card">
+      <h3>
+        <a href="/your-modernization-post-url/">
+          A Practical Guide to Data Modernization
+        </a>
+      </h3>
+
+      <p>
+        A framework for modernizing enterprise reporting, analytics, and data platforms.
+      </p>
+    </div>
+
+  </div>
+
+</section>
 
 ## Featured Insights
 
