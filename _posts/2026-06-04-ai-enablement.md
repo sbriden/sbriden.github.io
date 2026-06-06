@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Starts With Data: Why Most AI Initiatives Struggle Before They Begin"
+title: "Enabling AI Through Data"
 date: 2026-06-04
 categories: ai data analytics governance lakehouse
 excerpt: "Organizations are racing to adopt AI, but many discover that the real challenge isn't the technology—it's the data foundation underneath it."
