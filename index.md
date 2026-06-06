@@ -116,7 +116,7 @@ Successful organizations treat data as a product, not a pipeline.
 
     <div class="insight-card">
       <h3>
-        <a href="/your-medallion-post-url/">
+        <a href="/architecture/analytics/data/2026/05/26/medallion-architecture">
           Understanding Medallion Architecture
         </a>
       </h3>
@@ -128,7 +128,7 @@ Successful organizations treat data as a product, not a pipeline.
 
     <div class="insight-card">
       <h3>
-        <a href="/your-ai-post-url/">
+        <a href="/ai/data/analytics/governance/lakehouse/2026/06/04/ai-enablement">
           Enabling AI Through Data
         </a>
       </h3>
@@ -140,7 +140,7 @@ Successful organizations treat data as a product, not a pipeline.
 
     <div class="insight-card">
       <h3>
-        <a href="/your-modernization-post-url/">
+        <a href="/data/analytics/transformation/architecture/governance/2026/05/30/data-transformation">
           A Practical Guide to Data Modernization
         </a>
       </h3>
