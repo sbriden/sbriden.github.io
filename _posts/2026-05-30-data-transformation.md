@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Modernizing Data & Analytics: A Practical Roadmap for Enterprise Transformation"
+title: "A Practical Guide to Data Transformation"
 date: 2026-05-30
 categories: data analytics transformation architecture governance
 ---
-
-# A Practical Approach to Data & Analytics Transformation
 
 When organizations talk about “Data Transformation,” the conversation often sounds exciting at first.
 
