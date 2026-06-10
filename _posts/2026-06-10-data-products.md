@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Building Reports. Start Building Data Products."
-date: 2026-06-02
+date: 2026-06-10
 categories: data analytics data-products governance agile
 excerpt: "Many organizations still think in terms of reports and dashboards. Modern data organizations think in terms of data products that continuously deliver business value."
 ---
