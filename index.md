@@ -7,10 +7,10 @@ title: Home
 
   <div class="hero-left">
 
-    <h1>Modern Data & Analytics Strategy</h1>
+    <h1>Modern Data Strategy for Analytics and AI</h1>
 
     <p class="hero-text">
-     Helping organizations modernize data and analytics capabilities through scalable architecture, trusted governance, and business-aligned operating models.
+     Helping organizations modernize data platforms, establish governance, build data products, and create the foundation required for advanced analytics and AI.
     </p>
 
     <div class="positioning-bar">
