@@ -178,11 +178,11 @@ AI workloads often require large volumes of data.
 
 Organizations relying on fragmented reporting environments frequently encounter scalability limitations.
 
-Modern lakehouse architectures provide the flexibility required to support traditional analytics, machine learning, and generative AI use cases from a common foundation.
+[Modern lakehouse architectures](/architecture/analytics/data/2026/05/26/medallion-architecture.html) provide the flexibility required to support traditional analytics, machine learning, and generative AI use cases from a common foundation.
 
 # Why Data Products Matter
 
-As organizations move toward AI, another concept becomes increasingly important: Data Products.
+As organizations move toward AI, another concept becomes increasingly important: [Data Products](/data/analytics/data-products/governance/agile/2026/06/10/data-products.html).
 
 Historically, many analytics teams focused on delivering reports.
 
