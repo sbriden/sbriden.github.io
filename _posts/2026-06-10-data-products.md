@@ -329,7 +329,7 @@ Instead of rebuilding datasets for every AI initiative, teams can leverage exist
 
 This reduces development time while improving consistency and trust.
 
-In many ways, data products become the bridge between traditional analytics and AI-enabled organizations.
+In many ways, data products become the bridge between traditional analytics and [AI-enabled organizations](/ai/data/analytics/governance/lakehouse/2026/06/04/ai-enablement.html).
 
 # Final Thoughts
 
