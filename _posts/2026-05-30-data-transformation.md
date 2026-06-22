@@ -181,7 +181,7 @@ For example:
 
 - Bronze preserves raw source data
 - Silver standardizes and integrates enterprise logic
-- Gold delivers [business-ready data products](/2026/05/28/data-modernization-guide.html)
+- Gold delivers [business-ready data products](/data/analytics/data-products/governance/agile/2026/06/10/data-products.html)
 
 This creates consistency across the enterprise while dramatically reducing duplication.
 
