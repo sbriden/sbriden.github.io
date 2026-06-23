@@ -7,7 +7,7 @@ categories: architecture analytics data
 
 <p align="center">
   <img
-    src="{{ '/assets/images/medallion-architecture.png' | relative_url }}"
+    src="{{ '/assets/images/medallion-architecture.PNG' | relative_url }}"
     alt="Medallion Architecture"
     width="800">
 </p>
