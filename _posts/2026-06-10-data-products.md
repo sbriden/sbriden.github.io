@@ -6,6 +6,13 @@ categories: data analytics data-products governance agile
 excerpt: "Many organizations still think in terms of reports and dashboards. Modern data organizations think in terms of data products that continuously deliver business value."
 ---
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products.PNG' | relative_url }}"
+    alt="Data Products"
+    width="800">
+</p>
+
 For decades, analytics teams have operated using a relatively simple model.
 
 The business asks for a report.
