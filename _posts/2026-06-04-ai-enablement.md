@@ -6,6 +6,13 @@ categories: ai data analytics governance lakehouse
 excerpt: "Organizations are racing to adopt AI, but many discover that the real challenge isn't the technology—it's the data foundation underneath it."
 ---
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement.PNG' | relative_url }}"
+    alt="AI Enablement"
+    width="800">
+</p>
+
 Over the past few years, artificial intelligence has gone from an emerging technology to a boardroom priority.
 
 Executives are asking questions like:
