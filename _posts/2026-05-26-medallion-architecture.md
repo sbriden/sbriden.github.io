@@ -5,7 +5,12 @@ date: 2026-05-26
 categories: architecture analytics data
 ---
 
-[Medallion Architecture]({{ '/assets/images/medallion-architecture.png' | relative_url }})
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-architecture.png' | relative_url }}"
+    alt="Medallion Architecture"
+    width="800">
+</p>
 
 # A Practical Example – How Data Actually Flows Through the Medallion Architecture
 
