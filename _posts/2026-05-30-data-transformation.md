@@ -5,6 +5,13 @@ date: 2026-05-30
 categories: data analytics transformation architecture governance
 ---
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation.PNG' | relative_url }}"
+    alt="Data Transformation"
+    width="800">
+</p>
+
 When organizations talk about “Data Transformation,” the conversation often sounds exciting at first.
 
 Modern cloud platforms.
