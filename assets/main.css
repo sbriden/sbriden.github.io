@@ -170,6 +170,18 @@
   transform: translateY(-1px);
 }
 
+input[type="range"] {
+  width: 300px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+#results {
+  padding: 20px;
+  background: #f8fafc;
+  border-left: 4px solid #2b6cb0;
+}
+
 /* HEADSHOT */
 
 .headshot {
