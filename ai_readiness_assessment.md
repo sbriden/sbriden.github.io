@@ -4,8 +4,6 @@ title: AI Readiness Assessment
 permalink: /ai-readiness-assessment/
 ---
 
-<h1>AI Readiness Assessment</h1>
-
 <p>
 Evaluate how prepared your organization is to successfully adopt and scale AI initiatives.
 This assessment measures readiness across data, governance, analytics, technology, and operating model maturity.
