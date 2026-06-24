@@ -127,7 +127,7 @@ This assessment measures maturity across data, governance, analytics, technology
 Enter your email to receive a personalized AI readiness summary and recommendations.
 </p>
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/mvzjzbdv" method="POST">
 
   <input type="email" name="email" placeholder="Email address" required>
   <input type="text" name="company" placeholder="Company">
