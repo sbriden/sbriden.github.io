@@ -6,8 +6,6 @@ permalink: /ai-readiness-assessment/
 
 <link rel="stylesheet" href="{{ '/assets/css/ai-readiness.css' | relative_url }}">
 
-<h1>AI Readiness Assessment</h1>
-
 <p>
 Evaluate your organization’s readiness to successfully adopt and scale AI initiatives.
 This assessment measures maturity across data, governance, analytics, technology, and operating model dimensions.
