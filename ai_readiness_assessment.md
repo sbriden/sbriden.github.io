@@ -97,7 +97,7 @@ This assessment measures readiness across data, governance, analytics, technolog
 Enter your email to receive a detailed breakdown of your AI readiness assessment.
 </p>
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/mvzjzbdv" method="POST">
   <input type="email" name="email" placeholder="Your email address" required>
   <input type="hidden" name="score" id="hiddenScore">
   <button type="submit" class="cta-button">Send My Results</button>
