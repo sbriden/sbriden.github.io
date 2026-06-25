@@ -38,6 +38,13 @@ But once we begin looking under the hood, we quickly realize the data is coming 
 
 And every one of those systems structures information differently.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-architecture-source-systems.PNG' | relative_url }}"
+    alt="Medallion Architecture Source Systems"
+    width="800">
+</p>
+
 This is where the Medallion Architecture begins to shine.
 
 # Bronze Layer Example – Capturing the Raw Operational Data
