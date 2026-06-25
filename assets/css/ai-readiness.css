@@ -75,3 +75,21 @@ input[type="range"] {
     border-color: #2b6cb0;
     box-shadow: 0 0 0 3px rgba(43,108,176,0.15);
 }
+
+.score-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+    gap: 16px;
+    margin: 20px 0;
+}
+
+.score-card {
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+}
+
+.score-card h4 {
+    margin-top: 0;
+}
