@@ -169,6 +169,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <input type="hidden" name="strengths" id="strengths_field">
   <input type="hidden" name="gaps" id="gaps_field">
   <input type="hidden" name="readiness_level" id="readiness_level">
+  <input type="hidden" name="recommendations" id="recommendations_field">
 
    <button type="submit" class="cta-button">
        Email My Results
