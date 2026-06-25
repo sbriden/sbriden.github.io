@@ -48,10 +48,6 @@ function calculateScore() {
 
     const scores = [dataScore, govScore, analyticsScore, techScore, opsScore];
 
-    console.log("Overall:", overall);
-    console.log("Level:", level);
-    console.log("Summary:", summary);
-
     document.getElementById("results").style.display = "block";
 
     document.getElementById("scoreText").innerText =
