@@ -147,12 +147,6 @@ This assessment measures maturity across data, governance, analytics, technology
       identified gaps, and recommended next steps.
   </p>
 
-</div>
-
-<p>
-Enter your email to receive a personalized AI readiness summary and recommendations.
-</p>
-
 <form action="https://formspree.io/f/mvzjzbdv" method="POST" class="lead-form">
 
   <input type="email" name="email" placeholder="Business Email Address" required>
@@ -181,6 +175,8 @@ Enter your email to receive a personalized AI readiness summary and recommendati
    </button>
 
 </form>
+
+</div>
 
 <hr>
 
