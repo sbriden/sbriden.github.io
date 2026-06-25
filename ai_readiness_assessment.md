@@ -138,14 +138,13 @@ Enter your email to receive a personalized AI readiness summary and recommendati
   <input type="hidden" name="analytics_score" id="analytics_score">
   <input type="hidden" name="tech_score" id="tech_score">
   <input type="hidden" name="ops_score" id="ops_score">
+  <input type="hidden" name="assessment_details" id="assessment_details">
+  <input type="hidden" name="strengths" id="strengths_field">
   <input type="hidden" name="gaps" id="gaps_field">
+  <input type="hidden" name="readiness_level" id="readiness_level">
 
   <button type="submit" class="cta-button">
     Email My Results
-  </button>
-
-  <button class="cta-button" onclick="downloadPDF()">
-    Download PDF Report
   </button>
 
 </form>
@@ -161,5 +160,4 @@ Enter your email to receive a personalized AI readiness summary and recommendati
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="{{ '/assets/js/ai-readiness.js' | relative_url }}"></script>
