@@ -114,11 +114,19 @@ This assessment measures maturity across data, governance, analytics, technology
     <canvas id="radarChart"></canvas>
 </div>
 
-<h3>Key Strengths</h3>
-<ul id="strengths"></ul>
+<div class="score-grid">
 
-<h3>Top Improvement Areas</h3>
-<ul id="gaps"></ul>
+  <div class="score-card">
+      <h4>Top Strengths</h4>
+      <ul id="strengths"></ul>
+  </div>
+
+  <div class="score-card">
+      <h4>Improvement Areas</h4>
+      <ul id="gaps"></ul>
+  </div>
+
+</div>
 
 <hr>
 
