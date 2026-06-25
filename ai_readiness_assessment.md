@@ -105,21 +105,19 @@ This assessment measures maturity across data, governance, analytics, technology
 
 <h2>Your AI Readiness Results</h2>
 
-<h3 id="scoreText"></h3>
-<p id="summaryText"></p>
-
-<h3>Dimension Breakdown</h3>
-
-<div class="chart-container">
-    <canvas id="radarChart"></canvas>
-</div>
-
 <div class="executive-summary">
 
   <h3 id="scoreText"></h3>
 
   <p id="summaryText"></p>
 
+</div>
+
+
+<h3>Dimension Breakdown</h3>
+
+<div class="chart-container">
+    <canvas id="radarChart"></canvas>
 </div>
 
 <div class="score-grid">
