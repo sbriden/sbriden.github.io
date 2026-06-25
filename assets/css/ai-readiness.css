@@ -37,7 +37,11 @@ input[type="range"] {
     border-radius: 8px;
 }
 
-canvas {
-    max-width: 500px;
-    margin: 20px 0;
+.chart-container {
+    max-width: 450px;
+    margin: 0 auto 20px auto;
+}
+
+#radarChart {
+    max-height: 350px;
 }
