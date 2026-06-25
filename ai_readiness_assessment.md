@@ -109,7 +109,10 @@ This assessment measures maturity across data, governance, analytics, technology
 <p id="summaryText"></p>
 
 <h3>Dimension Breakdown</h3>
-<canvas id="radarChart"></canvas>
+
+<div class="chart-container">
+    <canvas id="radarChart"></canvas>
+</div>
 
 <h3>Key Strengths</h3>
 <ul id="strengths"></ul>
