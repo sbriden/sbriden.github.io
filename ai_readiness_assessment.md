@@ -114,6 +114,14 @@ This assessment measures maturity across data, governance, analytics, technology
     <canvas id="radarChart"></canvas>
 </div>
 
+<div class="executive-summary">
+
+  <h3 id="scoreText"></h3>
+
+  <p id="summaryText"></p>
+
+</div>
+
 <div class="score-grid">
 
   <div class="score-card">
@@ -130,7 +138,16 @@ This assessment measures maturity across data, governance, analytics, technology
 
 <hr>
 
-<h3>Get Your Detailed Report</h3>
+<div class="report-cta">
+
+  <h3>Email My Detailed Assessment</h3>
+
+  <p>
+      Receive a detailed breakdown of your results, dimension scores,
+      identified gaps, and recommended next steps.
+  </p>
+
+</div>
 
 <p>
 Enter your email to receive a personalized AI readiness summary and recommendations.
@@ -166,17 +183,6 @@ Enter your email to receive a personalized AI readiness summary and recommendati
 </form>
 
 <hr>
-
-<div class="report-cta">
-
-  <h3>Email My Detailed Assessment</h3>
-
-  <p>
-      Receive a detailed breakdown of your results, dimension scores,
-      identified gaps, and recommended next steps.
-  </p>
-
-</div>
 
 <a class="cta-button" href="/contact/">
   Request a Complimentary Consultation
