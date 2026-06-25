@@ -167,7 +167,16 @@ Enter your email to receive a personalized AI readiness summary and recommendati
 
 <hr>
 
-<h3>Want a deeper review?</h3>
+<div class="report-cta">
+
+  <h3>Email My Detailed Assessment</h3>
+
+  <p>
+      Receive a detailed breakdown of your results, dimension scores,
+      identified gaps, and recommended next steps.
+  </p>
+
+</div>
 
 <a class="cta-button" href="/contact/">
   Request a Complimentary Consultation
