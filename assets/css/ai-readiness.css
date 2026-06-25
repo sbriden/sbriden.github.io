@@ -93,3 +93,10 @@ input[type="range"] {
 .score-card h4 {
     margin-top: 0;
 }
+
+.report-cta {
+    background: #f8fafc;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
