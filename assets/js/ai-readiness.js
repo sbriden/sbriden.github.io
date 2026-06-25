@@ -113,12 +113,6 @@ function calculateScore() {
     document.getElementById("readiness_level").value = level;
     document.getElementById("assessment_details").value = details;
     
-    document.getElementById("recommendations_field").value = `
-    Recommended Focus Areas:
-    
-    ${paired.slice(-2).map(x => x.label).join(", ")}
-    `;
-
     // Strengths & gaps
     const labels = [
         "Data Foundations",
@@ -139,6 +133,12 @@ function calculateScore() {
 
     document.getElementById("gaps_field").value =
         paired.slice(-2).map(x => x.label).join(", ");
+
+    document.getElementById("recommendations_field").value = `
+    Recommended Focus Areas:
+    
+    ${paired.slice(-2).map(x => x.label).join(", ")}
+    `;
 
     renderChart(scores);
 }
