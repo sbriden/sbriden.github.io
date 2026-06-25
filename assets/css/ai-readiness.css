@@ -37,6 +37,11 @@ input[type="range"] {
     border-radius: 8px;
 }
 
+.results h3 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
 .chart-container {
     max-width: 450px;
     margin: 0 auto 20px auto;
