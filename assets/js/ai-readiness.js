@@ -55,6 +55,54 @@ function calculateScore() {
 
     document.getElementById("summaryText").innerText = summary;
 
+    const questionLabels = [
+    "Critical business data is accessible and centralized",
+    "Data quality is trusted across the organization",
+    "Data definitions are standardized across teams",
+    "Data is easily discoverable and documented",
+    "Clearly defined data ownership",
+    "Data quality is actively monitored",
+    "Sensitive data is properly governed",
+    "Compliance and security controls are well-defined",
+    "Business leaders trust reporting outputs",
+    "KPIs are consistently defined",
+    "Teams can self-serve analytics",
+    "Insights are embedded in decision making",
+    "Our data platform is modern and scalable",
+    "We can easily onboard new data sources",
+    "Integration between systems is efficient",
+    "We support batch and real-time workloads",
+    "Leadership actively supports data initiatives",
+    "Roles and responsibilities are clearly defined",
+    "Business and technical teams collaborate effectively"
+    ];
+    
+    let details = `
+    OVERALL SCORE
+    ${overall}
+    
+    READINESS LEVEL
+    ${level}
+    
+    DIMENSION SCORES
+    
+    Data Foundations: ${dataScore}%
+    Governance & Trust: ${govScore}%
+    Analytics Maturity: ${analyticsScore}%
+    Technology & Infrastructure: ${techScore}%
+    Operating Model: ${opsScore}%
+    
+    QUESTION RESPONSES
+    
+    `;
+    
+    for (let i = 0; i < questionLabels.length; i++) {
+        details += `
+    Q${i+1}: ${questionLabels[i]}
+    Score: ${v[i]}
+    `;
+    }
+
     // Fill hidden fields
     document.getElementById("overall_score").value = overall;
     document.getElementById("data_score").value = dataScore;
@@ -62,6 +110,8 @@ function calculateScore() {
     document.getElementById("analytics_score").value = analyticsScore;
     document.getElementById("tech_score").value = techScore;
     document.getElementById("ops_score").value = opsScore;
+    document.getElementById("readiness_level").value = level;
+    document.getElementById("assessment_details").value = details;
 
     // Strengths & gaps
     const labels = [
