@@ -50,3 +50,28 @@ input[type="range"] {
 #radarChart {
     max-height: 350px;
 }
+
+.lead-form {
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+.lead-form input,
+.lead-form select,
+.lead-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.lead-form input:focus,
+.lead-form select:focus,
+.lead-form textarea:focus {
+    outline: none;
+    border-color: #2b6cb0;
+    box-shadow: 0 0 0 3px rgba(43,108,176,0.15);
+}
