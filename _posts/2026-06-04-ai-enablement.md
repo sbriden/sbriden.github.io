@@ -104,6 +104,8 @@ AI doesn't replace the need for data maturity.
 
 It depends on it.
 
+[Assess your AI Readiness](/ai-readiness-assessment.md)
+
 # A Practical Example
 
 Let's imagine a customer service organization wants to leverage AI to improve customer experience.
