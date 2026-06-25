@@ -157,4 +157,5 @@ Enter your email to receive a personalized AI readiness summary and recommendati
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="{{ '/assets/js/ai-readiness.js' | relative_url }}"></script>
