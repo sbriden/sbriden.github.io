@@ -55,6 +55,9 @@ function calculateScore() {
 
     document.getElementById("summaryText").innerText = summary;
 
+    console.log(document.getElementById("scoreText"));
+    console.log(document.getElementById("summaryText"));
+
     const questionLabels = [
     "Critical business data is accessible and centralized",
     "Data quality is trusted across the organization",
