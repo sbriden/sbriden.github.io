@@ -112,6 +112,12 @@ function calculateScore() {
     document.getElementById("ops_score").value = opsScore;
     document.getElementById("readiness_level").value = level;
     document.getElementById("assessment_details").value = details;
+    
+    document.getElementById("recommendations_field").value = `
+    Recommended Focus Areas:
+    
+    ${paired.slice(-2).map(x => x.label).join(", ")}
+    `;
 
     // Strengths & gaps
     const labels = [
