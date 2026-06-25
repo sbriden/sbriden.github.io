@@ -128,11 +128,16 @@ This assessment measures maturity across data, governance, analytics, technology
 Enter your email to receive a personalized AI readiness summary and recommendations.
 </p>
 
-<form action="https://formspree.io/f/mvzjzbdv" method="POST">
+<form action="https://formspree.io/f/mvzjzbdv" method="POST" class="lead-form">
 
-  <input type="email" name="email" placeholder="Email address" required>
+  <input type="email" name="email" placeholder="Business Email Address" required>
+
+  <input type="text" name="name" placeholder="Full Name">
+
   <input type="text" name="company" placeholder="Company">
-  <input type="text" name="role" placeholder="Role">
+
+  <input type="text" name="role" placeholder="Role / Title">
+
   <input type="text" name="industry" placeholder="Industry">
 
   <input type="hidden" name="overall_score" id="overall_score">
@@ -146,9 +151,9 @@ Enter your email to receive a personalized AI readiness summary and recommendati
   <input type="hidden" name="gaps" id="gaps_field">
   <input type="hidden" name="readiness_level" id="readiness_level">
 
-  <button type="submit" class="cta-button">
-    Email My Results
-  </button>
+   <button type="submit" class="cta-button">
+       Email My Results
+   </button>
 
 </form>
 
