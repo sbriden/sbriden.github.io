@@ -144,6 +144,10 @@ Enter your email to receive a personalized AI readiness summary and recommendati
     Email My Results
   </button>
 
+  <button class="cta-button" onclick="downloadPDF()">
+    Download PDF Report
+  </button>
+
 </form>
 
 <hr>
