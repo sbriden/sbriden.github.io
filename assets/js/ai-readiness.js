@@ -133,8 +133,14 @@ function downloadPDF() {
     let y = 20;
 
     // Title
-    doc.setFontSize(18);
-    doc.text("AI Readiness Assessment Report", 20, y);
+    doc.setFontSize(16);
+    doc.text("Enterprise AI Readiness Assessment", 20, y);
+    
+    y += 6;
+    
+    doc.setFontSize(10);
+    doc.text("Data & Analytics Advisory Report", 20, y);
+    
     y += 10;
 
     // Score
