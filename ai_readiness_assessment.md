@@ -33,6 +33,8 @@ This assessment measures maturity across data, governance, analytics, technology
       </p>
   </div>
 
+  </div>
+
   <div class="question-grid">
   <div class="question">
 
@@ -64,11 +66,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -86,11 +88,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -106,11 +108,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
 
@@ -118,7 +120,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   </div>
 
-  </div>
+  
   
   <!-- GOVERNANCE -->
   <div class="section-header">
