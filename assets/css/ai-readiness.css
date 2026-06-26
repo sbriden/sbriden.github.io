@@ -5,6 +5,7 @@
 .assessment-section {
     background: #ffffff;
     border: 1px solid #e5e7eb;
+    border-left:6px solid #2b6cb0;
     border-radius: 12px;
     padding: 40px;
     margin: 40px 0;
@@ -19,6 +20,15 @@
     margin-bottom: 25px;
     border-bottom: 1px solid #edf2f7;
     padding-bottom: 20px;
+}
+
+.section-intro{
+    width:250px;
+    padding-right:30px;
+}
+
+.section-intro p{
+    line-height:1.8;
 }
 
 .section-number {
@@ -58,7 +68,7 @@ input[type="range"] {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 20px;
-    line-height: 1.6;
+    line-height: 1.7;
 }
 
 .question-grid {
