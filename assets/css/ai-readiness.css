@@ -44,6 +44,18 @@ input[type="range"] {
     margin: 8px 0 18px;
 }
 
+.question {
+    margin: 32px 0;
+}
+
+.question label {
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
 .cta-button {
     background: #2b6cb0;
     color: white;
