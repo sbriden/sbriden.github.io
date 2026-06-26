@@ -18,6 +18,8 @@ This assessment measures maturity across data, governance, analytics, technology
 <form id="assessmentForm">
 
   <section class="assessment-section">
+
+  <div class="question-grid">
   
   <div class="section-header">
     <span class="section-number">01</span>
@@ -26,8 +28,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div>
       <h2>Data Foundations</h2>
       <p>
-          Assess the quality, accessibility, consistency, and discoverability
-          of your organization's data.
+          Measures the accessibility, quality, consistency, and discoverability of enterprise data.
       </p>
   </div>
 
@@ -108,6 +109,8 @@ This assessment measures maturity across data, governance, analytics, technology
   <span>Strongly<br>Agree</span>
   
   </div>
+
+  </div>
   
   </div>
 
@@ -120,8 +123,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div>
       <h2>Governance & Trust</h2>
       <p>
-          Assess the quality, accessibility, consistency, and discoverability
-          of your organization's data.
+          Evaluates ownership, stewardship, compliance, and confidence in enterprise data.
       </p>
   </div>
 
@@ -214,8 +216,7 @@ This assessment measures maturity across data, governance, analytics, technology
    <div>
       <h2>Analytics Maturity</h2>
       <p>
-          Assess the quality, accessibility, consistency, and discoverability
-          of your organization's data.
+          Measures how effectively data is transformed into actionable insights.
       </p>
   </div>
 
