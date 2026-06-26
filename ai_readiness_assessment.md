@@ -46,7 +46,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </div>
   
   <!-- GOVERNANCE -->
-  <h2>Governance & Trust</h2>
+  <div class="section-header">
+    <span class="section-number">02</span>
+
+  <div>
+      <h2>Governance & Trust</h2>
+      <p>
+          Assess the quality, accessibility, consistency, and discoverability
+          of your organization's data.
+      </p>
+  </div>
   
   <label>We have clearly defined data ownership.</label>
   <input type="range" min="1" max="5" name="q5" value="3">
@@ -59,9 +68,20 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <label>Compliance and security controls are well-defined.</label>
   <input type="range" min="1" max="5" name="q8" value="3">
+
+  </div>
   
   <!-- ANALYTICS -->
-  <h2>Analytics Maturity</h2>
+  <div class="section-header">
+    <span class="section-number">03</span>
+
+   <div>
+      <h2>Analytics Maturity</h2>
+      <p>
+          Assess the quality, accessibility, consistency, and discoverability
+          of your organization's data.
+      </p>
+  </div>
   
   <label>Business leaders trust reporting outputs.</label>
   <input type="range" min="1" max="5" name="q9" value="3">
@@ -74,9 +94,20 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <label>Insights are embedded into decision-making processes.</label>
   <input type="range" min="1" max="5" name="q12" value="3">
+
+  </div>
   
   <!-- TECHNOLOGY -->
-  <h2>Technology & Infrastructure</h2>
+  <div class="section-header">
+    <span class="section-number">04</span>
+    
+  <div>
+      <h2>Technology & Infrastructure</h2>
+      <p>
+          Assess the quality, accessibility, consistency, and discoverability
+          of your organization's data.
+      </p>
+  </div>  
   
   <label>Our data platform is modern and scalable.</label>
   <input type="range" min="1" max="5" name="q13" value="3">
@@ -89,9 +120,20 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <label>We support both batch and real-time workloads.</label>
   <input type="range" min="1" max="5" name="q16" value="3">
+
+  </div>
   
   <!-- OPERATING MODEL -->
-  <h2>Operating Model</h2>
+  <div class="section-header">
+    <span class="section-number">05</span>
+    
+  <div>
+      <h2>Operating Model</h2>
+      <p>
+          Assess the quality, accessibility, consistency, and discoverability
+          of your organization's data.
+      </p>
+  </div> 
   
   <label>Leadership actively supports data initiatives.</label>
   <input type="range" min="1" max="5" name="q17" value="3">
@@ -101,6 +143,8 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <label>Business and technical teams collaborate effectively.</label>
   <input type="range" min="1" max="5" name="q19" value="3">
+
+  </div>
   
   <br><br>
   
