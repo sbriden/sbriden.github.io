@@ -56,6 +56,14 @@ input[type="range"] {
     line-height: 1.5;
 }
 
+.slider-labels {
+    display: flex;
+    justify-content: space-between;
+    color: #6b7280;
+    font-size: .8rem;
+    margin-top: 8px;
+}
+
 .cta-button {
     background: #2b6cb0;
     color: white;
