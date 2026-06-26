@@ -70,9 +70,16 @@ input[type="range"] {
 
 .question {
     background:#fafafa;
-    padding:20px;
-    border-radius:10px;
+    padding:22px;
+    border-radius:12px;
     border:1px solid #edf2f7;
+    transition:.2s;
+}
+
+.question:hover{
+    border-color:#2b6cb0;
+    box-shadow:0 4px 12px rgba(0,0,0,.06);
+    transform:translateY(-2px);
 }
 
 .question label {
@@ -80,7 +87,8 @@ input[type="range"] {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 20px;
-    line-height: 1.7;
+    line-height: 1.6;
+    min-height:70px;
 }
 
 .question-grid {
@@ -94,9 +102,9 @@ input[type="range"] {
 .slider-labels {
     display: flex;
     justify-content: space-between;
-    color: #6b7280;
     font-size: .8rem;
     margin-top: 10px;
+    color:#64748b;
 }
 
 .slider-labels span{
