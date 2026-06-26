@@ -17,83 +17,92 @@ This assessment measures maturity across data, governance, analytics, technology
 
 <form id="assessmentForm">
 
-<!-- DATA FOUNDATIONS -->
-<h2>Data Foundations</h2>
+  <section class="assessment-section">
+  
+  <div class="section-header">
+    <span class="section-number">01</span>
+        
+  <!-- DATA FOUNDATIONS -->
+  <h2>Data Foundations</h2>
+  
+  <label>Critical business data is accessible and centralized.</label>
+  <input type="range" min="1" max="5" name="q1" value="3">
+  
+  <label>Data quality is trusted across the organization.</label>
+  <input type="range" min="1" max="5" name="q2" value="3">
+  
+  <label>Data definitions are standardized across teams.</label>
+  <input type="range" min="1" max="5" name="q3" value="3">
+  
+  <label>Data is easily discoverable and well-documented.</label>
+  <input type="range" min="1" max="5" name="q4" value="3">
 
-<label>Critical business data is accessible and centralized.</label>
-<input type="range" min="1" max="5" name="q1" value="3">
-
-<label>Data quality is trusted across the organization.</label>
-<input type="range" min="1" max="5" name="q2" value="3">
-
-<label>Data definitions are standardized across teams.</label>
-<input type="range" min="1" max="5" name="q3" value="3">
-
-<label>Data is easily discoverable and well-documented.</label>
-<input type="range" min="1" max="5" name="q4" value="3">
-
-<!-- GOVERNANCE -->
-<h2>Governance & Trust</h2>
-
-<label>We have clearly defined data ownership.</label>
-<input type="range" min="1" max="5" name="q5" value="3">
-
-<label>Data quality is actively monitored.</label>
-<input type="range" min="1" max="5" name="q6" value="3">
-
-<label>Sensitive data is properly governed.</label>
-<input type="range" min="1" max="5" name="q7" value="3">
-
-<label>Compliance and security controls are well-defined.</label>
-<input type="range" min="1" max="5" name="q8" value="3">
-
-<!-- ANALYTICS -->
-<h2>Analytics Maturity</h2>
-
-<label>Business leaders trust reporting outputs.</label>
-<input type="range" min="1" max="5" name="q9" value="3">
-
-<label>KPIs are consistently defined across teams.</label>
-<input type="range" min="1" max="5" name="q10" value="3">
-
-<label>Teams can self-serve analytics without IT dependency.</label>
-<input type="range" min="1" max="5" name="q11" value="3">
-
-<label>Insights are embedded into decision-making processes.</label>
-<input type="range" min="1" max="5" name="q12" value="3">
-
-<!-- TECHNOLOGY -->
-<h2>Technology & Infrastructure</h2>
-
-<label>Our data platform is modern and scalable.</label>
-<input type="range" min="1" max="5" name="q13" value="3">
-
-<label>We can easily onboard new data sources.</label>
-<input type="range" min="1" max="5" name="q14" value="3">
-
-<label>Integration between systems is efficient.</label>
-<input type="range" min="1" max="5" name="q15" value="3">
-
-<label>We support both batch and real-time workloads.</label>
-<input type="range" min="1" max="5" name="q16" value="3">
-
-<!-- OPERATING MODEL -->
-<h2>Operating Model</h2>
-
-<label>Leadership actively supports data initiatives.</label>
-<input type="range" min="1" max="5" name="q17" value="3">
-
-<label>Roles and responsibilities are clearly defined.</label>
-<input type="range" min="1" max="5" name="q18" value="3">
-
-<label>Business and technical teams collaborate effectively.</label>
-<input type="range" min="1" max="5" name="q19" value="3">
-
-<br><br>
-
-<button type="button" class="cta-button" onclick="calculateScore()">
-  Calculate My AI Readiness Score
-</button>
+  </div>
+  
+  <!-- GOVERNANCE -->
+  <h2>Governance & Trust</h2>
+  
+  <label>We have clearly defined data ownership.</label>
+  <input type="range" min="1" max="5" name="q5" value="3">
+  
+  <label>Data quality is actively monitored.</label>
+  <input type="range" min="1" max="5" name="q6" value="3">
+  
+  <label>Sensitive data is properly governed.</label>
+  <input type="range" min="1" max="5" name="q7" value="3">
+  
+  <label>Compliance and security controls are well-defined.</label>
+  <input type="range" min="1" max="5" name="q8" value="3">
+  
+  <!-- ANALYTICS -->
+  <h2>Analytics Maturity</h2>
+  
+  <label>Business leaders trust reporting outputs.</label>
+  <input type="range" min="1" max="5" name="q9" value="3">
+  
+  <label>KPIs are consistently defined across teams.</label>
+  <input type="range" min="1" max="5" name="q10" value="3">
+  
+  <label>Teams can self-serve analytics without IT dependency.</label>
+  <input type="range" min="1" max="5" name="q11" value="3">
+  
+  <label>Insights are embedded into decision-making processes.</label>
+  <input type="range" min="1" max="5" name="q12" value="3">
+  
+  <!-- TECHNOLOGY -->
+  <h2>Technology & Infrastructure</h2>
+  
+  <label>Our data platform is modern and scalable.</label>
+  <input type="range" min="1" max="5" name="q13" value="3">
+  
+  <label>We can easily onboard new data sources.</label>
+  <input type="range" min="1" max="5" name="q14" value="3">
+  
+  <label>Integration between systems is efficient.</label>
+  <input type="range" min="1" max="5" name="q15" value="3">
+  
+  <label>We support both batch and real-time workloads.</label>
+  <input type="range" min="1" max="5" name="q16" value="3">
+  
+  <!-- OPERATING MODEL -->
+  <h2>Operating Model</h2>
+  
+  <label>Leadership actively supports data initiatives.</label>
+  <input type="range" min="1" max="5" name="q17" value="3">
+  
+  <label>Roles and responsibilities are clearly defined.</label>
+  <input type="range" min="1" max="5" name="q18" value="3">
+  
+  <label>Business and technical teams collaborate effectively.</label>
+  <input type="range" min="1" max="5" name="q19" value="3">
+  
+  <br><br>
+  
+  <button type="button" class="cta-button" onclick="calculateScore()">
+    Calculate My AI Readiness Score
+  </button>
+  
+  </section>
 
 </form>
 
