@@ -38,6 +38,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q1" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
