@@ -124,7 +124,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div class="section-header">
     <div class="section-number">02</div>
 
-  <div class="section_info">
+  <div class="section-info">
       <h2>Governance & Trust</h2>
       <p>
           Evaluates ownership, stewardship, compliance, and confidence in enterprise data.
@@ -219,7 +219,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div class="section-header">
     <div class="section-number">03</div>
 
-   <div class="section_info">
+   <div class="section-info">
       <h2>Analytics Maturity</h2>
       <p>
           Measures how effectively data is transformed into actionable insights.
@@ -314,7 +314,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div class="section-header">
     <div class="section-number">04</div>
     
-  <div class="section_info">
+  <div class="section-info">
       <h2>Technology & Infrastructure</h2>
       <p>
           Assess the quality, accessibility, consistency, and discoverability
@@ -410,7 +410,7 @@ This assessment measures maturity across data, governance, analytics, technology
   <div class="section-header">
     <div class="section-number">05</div>
     
-  <div  class="section_info">
+  <div  class="section-info">
       <h2>Operating Model</h2>
       <p>
           Assess the quality, accessibility, consistency, and discoverability
