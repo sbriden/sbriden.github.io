@@ -43,11 +43,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
