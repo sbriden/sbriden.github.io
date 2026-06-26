@@ -23,8 +23,14 @@ This assessment measures maturity across data, governance, analytics, technology
     <span class="section-number">01</span>
         
   <!-- DATA FOUNDATIONS -->
-  <h2>Data Foundations</h2>
-  
+  <div>
+      <h2>Data Foundations</h2>
+      <p>
+          Assess the quality, accessibility, consistency, and discoverability
+          of your organization's data.
+      </p>
+  </div>
+
   <label>Critical business data is accessible and centralized.</label>
   <input type="range" min="1" max="5" name="q1" value="3">
   
