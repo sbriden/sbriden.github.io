@@ -47,6 +47,10 @@ input[type="range"] {
 
 .question {
     margin: 32px 0;
+    background:#fafafa;
+    padding:20px;
+    border-radius:10px;
+    border:1px solid #edf2f7;
 }
 
 .question label {
