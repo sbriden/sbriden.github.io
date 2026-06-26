@@ -22,17 +22,18 @@ This assessment measures maturity across data, governance, analytics, technology
   
   
   <div class="section-header">
-    <span class="section-number">01</span>
+    <div class="section-number">01</div>
         
   <!-- DATA FOUNDATIONS -->
-  <div class="question-grid">
-  <div>
+  
+  <div class="section-info">
       <h2>Data Foundations</h2>
       <p>
           Measures the accessibility, quality, consistency, and discoverability of enterprise data.
       </p>
   </div>
 
+  <div class="question-grid">
   <div class="question">
 
   <label>
