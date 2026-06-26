@@ -19,12 +19,13 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <section class="assessment-section">
 
-  <div class="question-grid">
+  
   
   <div class="section-header">
     <span class="section-number">01</span>
         
   <!-- DATA FOUNDATIONS -->
+  <div class="question-grid">
   <div>
       <h2>Data Foundations</h2>
       <p>
@@ -71,6 +72,8 @@ This assessment measures maturity across data, governance, analytics, technology
   </div>
   
   </div>
+
+  <div></div>
 
   <div class="question">
 
