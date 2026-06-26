@@ -31,17 +31,45 @@ This assessment measures maturity across data, governance, analytics, technology
       </p>
   </div>
 
-  <label>Critical business data is accessible and centralized.</label>
+  <div class="question">
+
+  <label>
+  Critical business data is accessible and centralized.
+  </label>
+  
   <input type="range" min="1" max="5" name="q1" value="3">
   
-  <label>Data quality is trusted across the organization.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Data quality is trusted across the organization.
+  </label>
+  
   <input type="range" min="1" max="5" name="q2" value="3">
   
-  <label>Data definitions are standardized across teams.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Data definitions are standardized across teams.
+  </label>
+  
   <input type="range" min="1" max="5" name="q3" value="3">
   
-  <label>Data is easily discoverable and well-documented.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Data is easily discoverable and well-documented.
+  </label>
+  
   <input type="range" min="1" max="5" name="q4" value="3">
+  
+  </div>
 
   </div>
   
