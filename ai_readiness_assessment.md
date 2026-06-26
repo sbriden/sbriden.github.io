@@ -58,6 +58,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q2" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -68,6 +78,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q3" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -78,6 +98,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q4" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -102,6 +132,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q5" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -112,6 +152,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q6" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -122,6 +172,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q7" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -132,6 +192,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q8" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -156,6 +226,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q9" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -166,6 +246,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q10" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -176,6 +266,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q11" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -186,6 +286,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q12" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -210,6 +320,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q13" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
   
@@ -220,6 +340,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q14" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -230,6 +360,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q15" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>
 
@@ -240,6 +380,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q16" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>  
 
@@ -264,6 +414,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q17" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div> 
   
@@ -274,6 +434,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q18" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div> 
 
@@ -284,6 +454,16 @@ This assessment measures maturity across data, governance, analytics, technology
   </label>
   
   <input type="range" min="1" max="5" name="q19" value="3">
+
+  <div class="slider-labels">
+
+  <span>Strongly<br>Disagree</span>
+  
+  <span>Neutral</span>
+  
+  <span>Strongly<br>Agree</span>
+  
+  </div>
   
   </div>   
 
