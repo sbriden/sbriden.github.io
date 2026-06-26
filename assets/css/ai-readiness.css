@@ -89,6 +89,7 @@ input[type="range"] {
     gap: 24px;
     align-items: start;
     grid-template-columns:repeat(2,minmax(300px,1fr));
+    padding-bottom: 50px;
 }
 
 .slider-labels {
