@@ -84,18 +84,46 @@ This assessment measures maturity across data, governance, analytics, technology
           of your organization's data.
       </p>
   </div>
+
+  <div class="question">
+
+  <label>
+  We have clearly defined data ownership.
+  </label>
   
-  <label>We have clearly defined data ownership.</label>
   <input type="range" min="1" max="5" name="q5" value="3">
   
-  <label>Data quality is actively monitored.</label>
+  </div>
+  
+  <div class="question">
+
+  <label>
+  Data quality is actively monitored.
+  </label>
+  
   <input type="range" min="1" max="5" name="q6" value="3">
   
-  <label>Sensitive data is properly governed.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Sensitive data is properly governed.
+  </label>
+  
   <input type="range" min="1" max="5" name="q7" value="3">
   
-  <label>Compliance and security controls are well-defined.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Compliance and security controls are well-defined.
+  </label>
+  
   <input type="range" min="1" max="5" name="q8" value="3">
+  
+  </div>
 
   </div>
   
@@ -110,19 +138,47 @@ This assessment measures maturity across data, governance, analytics, technology
           of your organization's data.
       </p>
   </div>
+
+  <div class="question">
+
+  <label>
+  Business leaders trust reporting outputs.
+  </label>
   
-  <label>Business leaders trust reporting outputs.</label>
   <input type="range" min="1" max="5" name="q9" value="3">
   
-  <label>KPIs are consistently defined across teams.</label>
+  </div>
+  
+  <div class="question">
+
+  <label>
+  KPIs are consistently defined across teams.
+  </label>
+  
   <input type="range" min="1" max="5" name="q10" value="3">
   
-  <label>Teams can self-serve analytics without IT dependency.</label>
+  </div>
+  
+  <div class="question">
+
+  <label>
+  Teams can self-serve analytics without IT dependency.
+  </label>
+  
   <input type="range" min="1" max="5" name="q11" value="3">
   
-  <label>Insights are embedded into decision-making processes.</label>
-  <input type="range" min="1" max="5" name="q12" value="3">
+  </div>
+  
+  <div class="question">
 
+  <label>
+  Insights are embedded into decision-making processes.
+  </label>
+  
+  <input type="range" min="1" max="5" name="q12" value="3">
+  
+  </div>
+  
   </div>
   
   <!-- TECHNOLOGY -->
@@ -136,18 +192,46 @@ This assessment measures maturity across data, governance, analytics, technology
           of your organization's data.
       </p>
   </div>  
+
+  <div class="question">
+
+  <label>
+  Our data platform is modern and scalable.
+  </label>
   
-  <label>Our data platform is modern and scalable.</label>
   <input type="range" min="1" max="5" name="q13" value="3">
   
-  <label>We can easily onboard new data sources.</label>
+  </div>
+  
+  <div class="question">
+
+  <label>
+  We can easily onboard new data sources.
+  </label>
+  
   <input type="range" min="1" max="5" name="q14" value="3">
   
-  <label>Integration between systems is efficient.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  Integration between systems is efficient.
+  </label>
+  
   <input type="range" min="1" max="5" name="q15" value="3">
   
-  <label>We support both batch and real-time workloads.</label>
+  </div>
+
+  <div class="question">
+
+  <label>
+  We support both batch and real-time workloads.
+  </label>
+  
   <input type="range" min="1" max="5" name="q16" value="3">
+  
+  </div>  
 
   </div>
   
@@ -162,15 +246,36 @@ This assessment measures maturity across data, governance, analytics, technology
           of your organization's data.
       </p>
   </div> 
+
+  <div class="question">
+
+  <label>
+  Leadership actively supports data initiatives.
+  </label>
   
-  <label>Leadership actively supports data initiatives.</label>
   <input type="range" min="1" max="5" name="q17" value="3">
   
-  <label>Roles and responsibilities are clearly defined.</label>
+  </div> 
+  
+  <div class="question">
+
+  <label>
+  Roles and responsibilities are clearly defined.
+  </label>
+  
   <input type="range" min="1" max="5" name="q18" value="3">
   
-  <label>Business and technical teams collaborate effectively.</label>
+  </div> 
+
+  <div class="question">
+
+  <label>
+  Business and technical teams collaborate effectively.
+  </label>
+  
   <input type="range" min="1" max="5" name="q19" value="3">
+  
+  </div>   
 
   </div>
   
