@@ -76,8 +76,6 @@ This assessment measures maturity across data, governance, analytics, technology
   
   </div>
 
-  <div></div>
-
   <div class="question">
 
   <label>
