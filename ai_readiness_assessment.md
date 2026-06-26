@@ -122,7 +122,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <!-- GOVERNANCE -->
   <div class="section-header">
-    <span class="section-number">02</span>
+    <div class="section-number">02</div>
 
   <div class="section_info">
       <h2>Governance & Trust</h2>
@@ -217,7 +217,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <!-- ANALYTICS -->
   <div class="section-header">
-    <span class="section-number">03</span>
+    <div class="section-number">03</div>
 
    <div class="section_info">
       <h2>Analytics Maturity</h2>
@@ -312,7 +312,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <!-- TECHNOLOGY -->
   <div class="section-header">
-    <span class="section-number">04</span>
+    <div class="section-number">04</div>
     
   <div class="section_info">
       <h2>Technology & Infrastructure</h2>
@@ -408,7 +408,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   <!-- OPERATING MODEL -->
   <div class="section-header">
-    <span class="section-number">05</span>
+    <div class="section-number">05</div>
     
   <div  class="section_info">
       <h2>Operating Model</h2>
