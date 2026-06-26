@@ -133,6 +133,7 @@ This assessment measures maturity across data, governance, analytics, technology
 
   </div>
 
+  <div class="question-grid">
   <div class="question">
 
   <label>
@@ -213,7 +214,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   </div>
 
-  
+  </div>
   
   <!-- ANALYTICS -->
   <div class="section-header">
@@ -228,6 +229,7 @@ This assessment measures maturity across data, governance, analytics, technology
 
    </div>
 
+  <div class="question-grid">
   <div class="question">
 
   <label>
@@ -307,6 +309,8 @@ This assessment measures maturity across data, governance, analytics, technology
   </div>
   
   </div>
+
+  </div>
   
  
   
@@ -324,6 +328,7 @@ This assessment measures maturity across data, governance, analytics, technology
  
   </div>
 
+  <div class="question-grid">
   <div class="question">
 
   <label>
@@ -404,7 +409,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   </div>  
 
- 
+  </div>
   
   <!-- OPERATING MODEL -->
   <div class="section-header">
@@ -420,6 +425,7 @@ This assessment measures maturity across data, governance, analytics, technology
 
   </div>
 
+  <div class="question-grid">
   <div class="question">
 
   <label>
@@ -480,6 +486,7 @@ This assessment measures maturity across data, governance, analytics, technology
   
   </div>   
 
+  </div>
   
   
   <br><br>
