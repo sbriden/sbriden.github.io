@@ -124,11 +124,13 @@ This assessment measures maturity across data, governance, analytics, technology
   <div class="section-header">
     <span class="section-number">02</span>
 
-  <div>
+  <div class="section_info">
       <h2>Governance & Trust</h2>
       <p>
           Evaluates ownership, stewardship, compliance, and confidence in enterprise data.
       </p>
+  </div>
+
   </div>
 
   <div class="question">
@@ -141,11 +143,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -161,11 +163,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -181,11 +183,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -201,28 +203,30 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
   </div>
 
-  </div>
+  
   
   <!-- ANALYTICS -->
   <div class="section-header">
     <span class="section-number">03</span>
 
-   <div>
+   <div class="section_info">
       <h2>Analytics Maturity</h2>
       <p>
           Measures how effectively data is transformed into actionable insights.
       </p>
   </div>
+
+   </div>
 
   <div class="question">
 
@@ -234,11 +238,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -254,11 +258,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -274,11 +278,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -294,29 +298,31 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
   </div>
   
-  </div>
+ 
   
   <!-- TECHNOLOGY -->
   <div class="section-header">
     <span class="section-number">04</span>
     
-  <div>
+  <div class="section_info">
       <h2>Technology & Infrastructure</h2>
       <p>
           Assess the quality, accessibility, consistency, and discoverability
           of your organization's data.
       </p>
   </div>  
+ 
+  </div>
 
   <div class="question">
 
@@ -328,11 +334,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -348,11 +354,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -368,11 +374,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -388,29 +394,31 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
   </div>  
 
-  </div>
+ 
   
   <!-- OPERATING MODEL -->
   <div class="section-header">
     <span class="section-number">05</span>
     
-  <div>
+  <div  class="section_info">
       <h2>Operating Model</h2>
       <p>
           Assess the quality, accessibility, consistency, and discoverability
           of your organization's data.
       </p>
   </div> 
+
+  </div>
 
   <div class="question">
 
@@ -422,11 +430,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -442,11 +450,11 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
@@ -462,17 +470,17 @@ This assessment measures maturity across data, governance, analytics, technology
 
   <div class="slider-labels">
 
-  <span>Strongly<br>Disagree</span>
+  <span>Strongly Disagree</span>
   
   <span>Neutral</span>
   
-  <span>Strongly<br>Agree</span>
+  <span>Strongly Agree</span>
   
   </div>
   
   </div>   
 
-  </div>
+  
   
   <br><br>
   
