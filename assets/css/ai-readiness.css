@@ -53,8 +53,8 @@ input[type="range"] {
     display: block;
     font-size: 1rem;
     font-weight: 600;
-    margin-bottom: 14px;
-    line-height: 1.5;
+    margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 .question-grid {
@@ -69,7 +69,23 @@ input[type="range"] {
     justify-content: space-between;
     color: #6b7280;
     font-size: .8rem;
-    margin-top: 8px;
+    margin-top: 10px;
+}
+
+.slider-labels span{
+    flex:1;
+}
+
+.slider-labels span:first-child{
+    text-align:left;
+}
+
+.slider-labels span:nth-child(2){
+    text-align:center;
+}
+
+.slider-labels span:last-child{
+    text-align:right;
 }
 
 .cta-button {
