@@ -135,6 +135,13 @@ We may create tables such as:
 
 This is also where relationships between systems begin to form.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-silver.PNG' | relative_url }}"
+    alt="Medallion Architecture Silver"
+    width="800">
+</p>
+
 For example:
 
 We may match provider information from the provider platform with claim activity from the claims system and workflow activity from the ticketing application.
@@ -170,6 +177,13 @@ Here we may create:
 - `gold.executive_kpis`
 
 These datasets are purpose-built for specific business use cases.
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-gold.PNG' | relative_url }}"
+    alt="Medallion Architecture Gold"
+    width="800">
+</p>
 
 For example, the executive KPI table may already contain:
 - daily claims processed
@@ -212,6 +226,13 @@ Until:
 - every report becomes a custom integration effort
 
 Suddenly the organization spends more time debating numbers than acting on insights.
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-struggle.PNG' | relative_url }}"
+    alt="Medallion Architecture Struggle"
+    width="800">
+</p>
 
 The Medallion Architecture prevents this by creating clear ownership at each stage of the data lifecycle.
 
