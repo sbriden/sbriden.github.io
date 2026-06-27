@@ -84,7 +84,7 @@ And that is perfectly fine for Bronze.
 
 <p align="center">
   <img
-    src="{{ '/assets/images/medallion-bronze.PNG' | relative_url }}"
+    src="{{ '/assets/images/medallion-architecture-bronze.PNG' | relative_url }}"
     alt="Medallion Architecture Bronze"
     width="800">
 </p>
@@ -137,7 +137,7 @@ This is also where relationships between systems begin to form.
 
 <p align="center">
   <img
-    src="{{ '/assets/images/medallion-silver.PNG' | relative_url }}"
+    src="{{ '/assets/images/medallion-architecture-silver.PNG' | relative_url }}"
     alt="Medallion Architecture Silver"
     width="800">
 </p>
@@ -180,7 +180,7 @@ These datasets are purpose-built for specific business use cases.
 
 <p align="center">
   <img
-    src="{{ '/assets/images/medallion-gold.PNG' | relative_url }}"
+    src="{{ '/assets/images/medallion-architecture-gold.PNG' | relative_url }}"
     alt="Medallion Architecture Gold"
     width="800">
 </p>
@@ -229,7 +229,7 @@ Suddenly the organization spends more time debating numbers than acting on insig
 
 <p align="center">
   <img
-    src="{{ '/assets/images/medallion-struggle.PNG' | relative_url }}"
+    src="{{ '/assets/images/medallion-architecture-struggle.PNG' | relative_url }}"
     alt="Medallion Architecture Struggle"
     width="800">
 </p>
