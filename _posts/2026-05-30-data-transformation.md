@@ -24,6 +24,13 @@ Data democratization.
 
 Then reality sets in.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-overwhelming.PNG' | relative_url }}"
+    alt="Data Transformation Overwhelming"
+    width="800">
+</p>
+
 Because behind every transformation initiative is usually:
 - decades of legacy reporting
 - undocumented business logic
