@@ -71,6 +71,13 @@ Let's walk through a practical model.
 
 ## Step 1 – Start With Business Opportunities, Not Technology
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-opportunities.PNG' | relative_url }}"
+    alt="Data Transformation Opportunities"
+    width="800">
+</p>
+
 One of the biggest mistakes organizations make is beginning transformation efforts with platform selection instead of business alignment.
 
 The conversation immediately becomes:
