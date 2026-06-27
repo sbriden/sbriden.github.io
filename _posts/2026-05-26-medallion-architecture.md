@@ -82,6 +82,13 @@ These tables likely still contain:
 
 And that is perfectly fine for Bronze.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/medallion-bronze.PNG' | relative_url }}"
+    alt="Medallion Architecture Bronze"
+    width="800">
+</p>
+
 For example:
 
 The claims system may identify a provider using `Provider_ID`.
