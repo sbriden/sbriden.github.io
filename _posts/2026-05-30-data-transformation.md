@@ -144,6 +144,13 @@ You cannot simply shut everything down and rebuild from scratch.
 
 So the transformation must operate in parallel.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-roadmap.PNG' | relative_url }}"
+    alt="Data Transformation Roadmap"
+    width="800">
+</p>
+
 This requires a phased modernization strategy.
 
 In many cases, this means:
@@ -193,6 +200,13 @@ And in many cases, nobody fully remembers why some of those rules were created.
 This is why transformation efforts cannot simply focus on dashboard recreation.
 
 The real work is rebuilding trusted enterprise logic in the cloud.
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-trust.PNG' | relative_url }}"
+    alt="Data Transformation Trust"
+    width="800">
+</p>
 
 This is where modern lakehouse architectures become extremely valuable.
 
@@ -251,6 +265,13 @@ The goal is not simply reproducing old experiences with newer technology.
 
 The goal is improving how the business consumes and acts on information.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-modernize.PNG' | relative_url }}"
+    alt="Data Transformation Modernize"
+    width="800">
+</p>
+
 This is where product thinking becomes critical.
 
 Instead of thinking:
@@ -307,6 +328,13 @@ Because trust in analytics platforms is built through transparency and consisten
 ---
 
 ## Step 6 – Organize Around Cross-Functional Agile Data Product Teams
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-teams.PNG' | relative_url }}"
+    alt="Data Transformation Teams"
+    width="800">
+</p>
 
 This is where transformation efforts truly begin scaling.
 
@@ -369,6 +397,13 @@ Instead of one massive enterprise initiative, the organization now has multiple 
 ---
 
 ## Step 7 – Deliver Incrementally and Build Momentum
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-incremental.PNG' | relative_url }}"
+    alt="Data Transformation Incremental"
+    width="800">
+</p>
 
 This may be the single most important principle of all.
 
