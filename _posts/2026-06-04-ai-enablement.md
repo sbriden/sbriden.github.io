@@ -35,6 +35,13 @@ Because the data isn't ready.
 
 # The AI Hype Cycle Meets Enterprise Reality
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-foundation.PNG' | relative_url }}"
+    alt="AI Enablement Foundation"
+    width="800">
+</p>
+
 When people think about AI, they often picture sophisticated algorithms making intelligent decisions.
 
 What they don't see is everything happening behind the scenes.
@@ -53,6 +60,13 @@ If the answer to those questions is no, AI will simply produce faster answers ba
 And as many organizations have learned, bad data plus artificial intelligence does not equal intelligence.
 
 It equals faster bad decisions.
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-maturity.PNG' | relative_url }}"
+    alt="AI Enablement Maturity"
+    width="800">
+</p>
 
 # AI Maturity Follows Data Maturity
 
@@ -105,6 +119,13 @@ AI doesn't replace the need for data maturity.
 It depends on it.
 
 [Assess your AI Readiness](/ai-readiness-assessment.md)
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-reality.PNG' | relative_url }}"
+    alt="AI Enablement Reality"
+    width="800">
+</p>
 
 # A Practical Example
 
