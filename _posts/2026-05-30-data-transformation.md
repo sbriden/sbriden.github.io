@@ -446,6 +446,13 @@ It is an organizational evolution.
 
 ---
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-transformation-journey.PNG' | relative_url }}"
+    alt="Data Transformation Journey"
+    width="800">
+</p>
+
 ## Final Thoughts
 
 Data and analytics transformation can absolutely feel overwhelming.
