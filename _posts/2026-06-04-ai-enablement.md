@@ -158,6 +158,13 @@ Not because the AI failed.
 
 Because the foundational work was never completed.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-pillars.PNG' | relative_url }}"
+    alt="AI Enablement Pillars"
+    width="800">
+</p>
+
 # The Data Capabilities That Enable AI
 
 If organizations want to accelerate AI adoption, there are several foundational capabilities that should be prioritized.
@@ -212,6 +219,13 @@ Organizations relying on fragmented reporting environments frequently encounter 
 
 # Why Data Products Matter
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-product.PNG' | relative_url }}"
+    alt="AI Enablement Product"
+    width="800">
+</p>
+
 As organizations move toward AI, another concept becomes increasingly important: [Data Products](/data/analytics/data-products/governance/agile/2026/06/10/data-products.html).
 
 Historically, many analytics teams focused on delivering reports.
@@ -241,6 +255,13 @@ These products become reusable assets that support:
 The stronger the data product ecosystem becomes, the faster AI initiatives can be developed.
 
 # AI Is Not the Destination
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-outcome.PNG' | relative_url }}"
+    alt="AI Enablement Outcome"
+    width="800">
+</p>
 
 One of the most important lessons organizations can learn is that AI should not become the goal.
 
