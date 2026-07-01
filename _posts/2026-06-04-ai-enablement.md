@@ -279,6 +279,13 @@ Organizations that focus on building trusted, governed, high-quality data founda
 
 Whether that is AI, machine learning, predictive analytics, or something we haven't invented yet.
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/ai-enablement-strategy.PNG' | relative_url }}"
+    alt="AI Enablement Strategy"
+    width="800">
+</p>
+
 # Final Thoughts
 
 Every organization wants to leverage AI.
