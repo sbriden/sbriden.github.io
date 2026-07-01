@@ -29,6 +29,13 @@ At least that's how we like to think it works.
 
 In reality, what usually happens is something more like this:
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-lifecycle.PNG' | relative_url }}"
+    alt="Data Products Lifecycle"
+    width="800">
+</p>
+
 The report gets delivered.
 
 A week later the business wants additional filters.
@@ -52,6 +59,13 @@ And as data becomes increasingly critical to business operations, that mindset b
 This is where Data Product Thinking comes into play.
 
 # The Shift From Projects to Products
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-thinking.PNG' | relative_url }}"
+    alt="Data Products Thinking"
+    width="800">
+</p>
 
 Let's start with a simple question.
 
