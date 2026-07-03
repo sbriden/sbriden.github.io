@@ -222,7 +222,7 @@ That is the power of product thinking.
     alt="Data Products Chaos"
     width="800">
 </p>
-
+ 
 
 Many organizations unknowingly create reporting sprawl.
 
