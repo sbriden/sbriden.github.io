@@ -14,10 +14,10 @@ Helping organizations modernize data platforms, transform analytics, and build t
 <a href="/contact/" class="cta-button">Schedule a Consultation</a>
 <a href="/ai-readiness-assessment/" class="cta-button secondary">Take the AI Readiness Assessment</a>
 </div>
-
+ 
 ---
 
-## How I Help
+## How I Help 
 
 Whether you're building your first modern data platform or leading enterprise-wide transformation, I provide strategic advisory services that bridge business objectives with practical technical execution.
 
