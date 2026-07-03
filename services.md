@@ -25,7 +25,7 @@ Whether you're building your first modern data platform or leading enterprise-wi
 
 <div class="service-card">
 
-### 🏛 Enterprise Data Strategy
+<h3> 🏛 Enterprise Data Strategy </h3>
 
 Develop an enterprise roadmap that aligns data, analytics, governance, and technology with business strategy.
 
@@ -41,7 +41,7 @@ Develop an enterprise roadmap that aligns data, analytics, governance, and techn
 
 <div class="service-card">
 
-### ☁️ Modern Data Platforms
+<h3> ☁️ Modern Data Platforms </h3>
 
 Design scalable cloud-native architectures that support analytics, governance, data products, and AI initiatives.
 
@@ -57,7 +57,7 @@ Design scalable cloud-native architectures that support analytics, governance, d
 
 <div class="service-card">
 
-### 📊 Analytics Modernization
+<h3> 📊 Analytics Modernization </h3>
 
 Transform reporting into trusted, scalable analytics capabilities that enable better business decisions.
 
@@ -73,7 +73,7 @@ Transform reporting into trusted, scalable analytics capabilities that enable be
 
 <div class="service-card">
 
-### 🛡 Data Governance
+<h3> 🛡 Data Governance </h3>
 
 Build governance programs that increase trust and accountability while enabling business agility.
 
@@ -89,7 +89,7 @@ Build governance programs that increase trust and accountability while enabling 
 
 <div class="service-card">
 
-### 🤖 AI Readiness & Enablement
+<h3> 🤖 AI Readiness & Enablement </h3>
 
 Prepare your organization for AI by strengthening the data foundations that successful AI initiatives require.
 
