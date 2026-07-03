@@ -14,7 +14,7 @@ Helping organizations modernize data platforms, transform analytics, and build t
 <a href="/contact/" class="cta-button">Schedule a Consultation</a>
 <a href="/ai-readiness-assessment/" class="cta-button secondary">Take the AI Readiness Assessment</a>
 </div>
- 
+
 ---
 
 ## How I Help 
