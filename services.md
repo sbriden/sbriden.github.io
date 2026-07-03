@@ -1,124 +1,237 @@
 ---
 layout: page
-title: Services
+title: Advisory Services
 permalink: /services/
 ---
 
-### Enterprise Data Strategy
+<div class="hero-banner">
+<h1>Enterprise Data & Analytics Advisory</h1>
 
-Develop a clear roadmap for how data can support business growth, operational efficiency, and strategic decision-making. Align technology investments, organizational capabilities, and business objectives to create a scalable foundation for long-term success.
+<p class="hero-subtitle">
+Helping organizations modernize data platforms, transform analytics, and build the trusted data foundations required for AI.
+</p>
+
+<a href="/contact/" class="cta-button">Schedule a Consultation</a>
+<a href="/ai-readiness-assessment/" class="cta-button secondary">Take the AI Readiness Assessment</a>
+</div>
+
+---
+
+## How I Help
+
+Whether you're building your first modern data platform or leading enterprise-wide transformation, I provide strategic advisory services that bridge business objectives with practical technical execution.
+
+<div class="services-grid">
+
+<div class="service-card">
+
+### 🏛 Enterprise Data Strategy
+
+Develop an enterprise roadmap that aligns data, analytics, governance, and technology with business strategy.
 
 **Typical Engagements**
 
-- Data Strategy Development
+- Enterprise Data Strategy
 - Data & Analytics Roadmaps
 - Data Maturity Assessments
-- Operating Model Design
-- Executive Advisory Services
-
----
-
-### Data & Analytics Transformation
-
-Modernize legacy data and analytics environments through a practical, incremental approach that delivers business value while reducing risk. From data warehouse modernization to enterprise reporting transformation, focus on outcomes rather than technology alone.
-
-**Typical Engagements**
-
-- Data Transformation Programs
-- Legacy Platform Modernization
-- Reporting & Analytics Transformation
-- Cloud Migration Strategy
+- Executive Advisory
 - Analytics Operating Models
 
----
+</div>
 
-### Data Lakehouse Architecture
+<div class="service-card">
 
-Design modern, scalable data platforms that support analytics, governance, data products, and AI initiatives. Establish architecture patterns and implementation approaches that balance flexibility, performance, and long-term maintainability.
+### ☁️ Modern Data Platforms
+
+Design scalable cloud-native architectures that support analytics, governance, data products, and AI initiatives.
 
 **Typical Engagements**
 
-- Lakehouse Architecture Design
-- Data Platform Assessments
-- Cloud Data Architecture
+- Lakehouse Architecture
+- Cloud Data Platforms
+- Legacy Modernization
 - Data Integration Strategy
-- Platform Governance
+- Architecture Reviews
 
----
+</div>
 
-### Data Products & Analytics Enablement
+<div class="service-card">
 
-Move beyond traditional reporting by establishing reusable, trusted data products that support analytics, operational reporting, and AI use cases. Create scalable data assets that drive consistent business outcomes across the organization.
+### 📊 Analytics Modernization
+
+Transform reporting into trusted, scalable analytics capabilities that enable better business decisions.
 
 **Typical Engagements**
 
-- Data Product Strategy
-- KPI & Metric Standardization
+- KPI Standardization
+- Reporting Modernization
 - Self-Service Analytics
-- Data Product Operating Models
-- Analytics Modernization
+- Data Products
+- Semantic Models
 
----
+</div>
 
-### Data Governance
+<div class="service-card">
 
-Establish governance frameworks that improve trust, transparency, and accountability without creating unnecessary bureaucracy. Build governance as an operational capability that supports business adoption and long-term sustainability.
+### 🛡 Data Governance
+
+Build governance programs that increase trust and accountability while enabling business agility.
 
 **Typical Engagements**
 
-- Data Governance Programs
-- Data Ownership Frameworks
-- Business Glossaries
+- Governance Frameworks
+- Data Ownership
 - Data Quality Strategy
-- Governance Operating Models
+- Business Glossaries
+- Stewardship Programs
 
----
+</div>
 
-### AI Readiness & Enablement
+<div class="service-card">
 
-Many organizations are eager to adopt AI but struggle with the underlying data foundation required to support it. Assess current capabilities and establish the data, governance, and architecture foundations needed to successfully leverage AI and advanced analytics.
+### 🤖 AI Readiness & Enablement
+
+Prepare your organization for AI by strengthening the data foundations that successful AI initiatives require.
 
 **Typical Engagements**
 
 - AI Readiness Assessments
-- AI Data Foundation Strategy
-- Data Quality & Governance Reviews
 - AI Enablement Roadmaps
-- Enterprise Data Product Design
+- Data Foundation Reviews
+- Governance for AI
+- AI Strategy Advisory
+
+<a href="/ai-readiness-assessment/" class="small-button">
+Take the Assessment →
+</a>
+
+</div>
+
+</div>
 
 ---
 
-## Engagement Models
+# Who I Work With
 
-### Advisory
+I typically partner with organizations that are:
 
-Strategic guidance for executive leaders and organizations navigating data and analytics transformation initiatives.
-
-### Fractional Data Leadership
-
-Part-time leadership support for organizations needing senior-level expertise in data strategy, architecture, governance, or transformation leadership.
-
-### Project-Based Consulting
-
-Targeted engagements focused on assessments, roadmaps, architecture reviews, governance programs, and modernization initiatives.
-
-### Transformation Leadership
-
-Hands-on partnership supporting enterprise data and analytics transformation efforts from strategy through execution.
+- Modernizing legacy data warehouses and reporting environments
+- Building cloud-native data platforms
+- Establishing enterprise data governance programs
+- Preparing for AI and advanced analytics initiatives
+- Scaling data capabilities through modern operating models
 
 ---
 
-## How I Work
+# Engagement Models
 
-Successful transformation requires more than implementing technology. It requires alignment between business strategy, governance, operating models, and execution.
+<div class="engagement-grid">
 
-My approach focuses on:
+<div class="engagement-card">
 
-- Understanding business objectives first
-- Establishing practical and scalable architectures
-- Delivering value incrementally
-- Building trusted and governed data foundations
-- Creating sustainable operating models
-- Enabling long-term analytics and AI success
+## Executive Advisory
 
-Whether supporting a startup building its first analytics platform or a large enterprise modernizing legacy systems, the goal remains the same: helping organizations make better decisions through trusted, accessible, and well-governed data.
+Strategic guidance for executive leaders defining enterprise data strategy, governance, and analytics priorities.
+
+</div>
+
+<div class="engagement-card">
+
+## Fractional Data Leadership
+
+Part-time enterprise leadership for organizations needing senior expertise without hiring a full-time executive.
+
+</div>
+
+<div class="engagement-card">
+
+## Project-Based Consulting
+
+Targeted engagements including assessments, roadmaps, architecture reviews, and modernization initiatives.
+
+</div>
+
+<div class="engagement-card">
+
+## Transformation Leadership
+
+Hands-on partnership helping organizations execute enterprise-wide data and analytics transformation programs.
+
+</div>
+
+</div>
+
+---
+
+# My Approach
+
+Successful transformation requires more than implementing technology.
+
+It requires alignment between:
+
+- Business Strategy
+- Data Governance
+- Modern Architecture
+- Analytics Operating Models
+- Organizational Change
+- Executive Sponsorship
+
+Every engagement is designed to deliver measurable business value through practical, incremental improvements rather than large-scale technology projects.
+
+---
+
+# Engagement Process
+
+<div class="process-grid">
+
+<div class="process-step">
+
+## 1. Discover
+
+Understand business priorities, challenges, and current-state capabilities.
+
+</div>
+
+<div class="process-step">
+
+## 2. Assess
+
+Evaluate architecture, governance, analytics maturity, and organizational readiness.
+
+</div>
+
+<div class="process-step">
+
+## 3. Roadmap
+
+Develop a practical modernization strategy aligned with business objectives.
+
+</div>
+
+<div class="process-step">
+
+## 4. Execute
+
+Provide strategic guidance and leadership throughout implementation.
+
+</div>
+
+</div>
+
+---
+
+# Ready to Modernize Your Data Strategy?
+
+Whether you're planning a lakehouse migration, improving governance, modernizing analytics, or preparing for AI, I'd be happy to discuss your goals.
+
+<div style="margin-top:30px;">
+
+<a href="/contact/" class="cta-button">
+Schedule a Consultation
+</a>
+
+<a href="/ai-readiness-assessment/" class="cta-button secondary">
+Assess Your AI Readiness
+</a>
+
+</div>
