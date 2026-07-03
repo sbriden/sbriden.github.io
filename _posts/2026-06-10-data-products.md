@@ -108,6 +108,13 @@ That subtle shift changes everything.
 
 # What Is a Data Product?
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-product.PNG' | relative_url }}"
+    alt="Data Products Product"
+    width="800">
+</p>
+
 The term Data Product has become increasingly popular, but it is often misunderstood.
 
 Some people think a data product is simply a dashboard.
@@ -149,6 +156,13 @@ A dashboard may be part of a data product.
 But the dashboard itself is rarely the product.
 
 # A Practical Example
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-example.PNG' | relative_url }}"
+    alt="Data Products Example"
+    width="800">
+</p>
 
 Let's imagine a workers' compensation insurance company wants better visibility into claims performance.
 
@@ -201,6 +215,14 @@ Multiple business outcomes.
 That is the power of product thinking.
 
 # Why Most Analytics Environments Become Chaotic
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-chaos.PNG' | relative_url }}"
+    alt="Data Products Chaos"
+    width="800">
+</p>
+
 
 Many organizations unknowingly create reporting sprawl.
 
