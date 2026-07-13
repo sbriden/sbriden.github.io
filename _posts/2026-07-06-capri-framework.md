@@ -6,6 +6,13 @@ categories: data-products transformation lakehouse analytics strategy
 excerpt: "Most organizations know they need data products, but struggle to determine which ones to build. The CAPRI Framework provides a practical approach for identifying, prioritizing, and delivering enterprise data products that support analytics, self-service, and AI."
 ---
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework.PNG' | relative_url }}"
+    alt="Capri Framework"
+    width="800">
+</p>
+
 One of the biggest challenges organizations face during a data transformation effort is not selecting technology.
 
 It is deciding what to build.
@@ -45,6 +52,13 @@ Rather than organizing transformation efforts around reports, databases, or sour
 ---
 
 # Why Traditional Migration Approaches Often Fail
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-traditional.PNG' | relative_url }}"
+    alt="Capri Framework Traditional"
+    width="800">
+</p>
 
 When organizations begin modernizing their analytics ecosystem, work is frequently organized around one of three approaches.
 
@@ -111,6 +125,13 @@ The result is a modernization effort focused on reusable business capabilities r
 ---
 
 # C — Capabilities
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-capability.PNG' | relative_url }}"
+    alt="Capri Framework Capability"
+    width="800">
+</p>
 
 The first step is understanding the business.
 
