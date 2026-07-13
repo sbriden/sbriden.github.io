@@ -270,6 +270,14 @@ Just like any other product within the organization.
 
 # The Role of Governance in Data Products
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-governance.PNG' | relative_url }}"
+    alt="Data Products Governance"
+    width="800">
+</p>
+
+
 One of the reasons data products have gained popularity is because they naturally align with governance.
 
 Traditional governance efforts often struggle because governance is treated as a separate activity.
@@ -290,6 +298,13 @@ When governance becomes part of the product lifecycle, it becomes significantly 
 And trust is ultimately what drives adoption.
 
 # Organizing Around Data Products
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-teams.PNG' | relative_url }}"
+    alt="Data Products Teams"
+    width="800">
+</p>
 
 One of the most powerful changes organizations can make is aligning teams around business capabilities rather than technical functions.
 
@@ -321,6 +336,13 @@ This creates tighter alignment between business objectives and technical deliver
 Most importantly, it ensures accountability for outcomes rather than outputs.
 
 # Measuring Success Differently
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-measure.PNG' | relative_url }}"
+    alt="Data Products Measure"
+    width="800">
+</p>
 
 Traditional reporting teams often measure success through delivery metrics.
 
@@ -373,6 +395,13 @@ Instead of rebuilding datasets for every AI initiative, teams can leverage exist
 This reduces development time while improving consistency and trust.
 
 In many ways, data products become the bridge between traditional analytics and [AI-enabled organizations](/ai/data/analytics/governance/lakehouse/2026/06/04/ai-enablement.html).
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/data-products-value.PNG' | relative_url }}"
+    alt="Data Products Value"
+    width="800">
+</p>
 
 # Final Thoughts
 
