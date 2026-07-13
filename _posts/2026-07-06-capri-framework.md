@@ -6,8 +6,6 @@ categories: data-products transformation lakehouse analytics strategy
 excerpt: "Most organizations know they need data products, but struggle to determine which ones to build. The CAPRI Framework provides a practical approach for identifying, prioritizing, and delivering enterprise data products that support analytics, self-service, and AI."
 ---
 
-# Introducing the CAPRI Framework: A Practical Approach to Identifying Enterprise Data Products
-
 One of the biggest challenges organizations face during a data transformation effort is not selecting technology.
 
 It is deciding what to build.
