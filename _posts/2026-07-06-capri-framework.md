@@ -176,6 +176,13 @@ This is why they provide such a strong foundation for identifying data products.
 
 # A — Assets
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-asset.PNG' | relative_url }}"
+    alt="Capri Framework Asset"
+    width="800">
+</p>
+
 Once capabilities are understood, the next step is inventorying existing assets.
 
 This includes:
@@ -210,6 +217,13 @@ Organizations frequently have hundreds of assets supporting only a handful of co
 ---
 
 # P — Patterns
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-pattern.PNG' | relative_url }}"
+    alt="Capri Framework Pattern"
+    width="800">
+</p>
 
 This is where potential data products begin to emerge.
 
