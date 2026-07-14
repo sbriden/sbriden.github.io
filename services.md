@@ -4,17 +4,17 @@ title: Advisory Services
 permalink: /services/
 ---
 
-<div class="hero-section">
+<div class="services-hero">
 
     <h1>Transform Your Data Into a Strategic Advantage</h1>
 
-    <p class="hero-subtitle">
+    <p class="services-hero-subtitle">
         Helping organizations modernize data platforms, improve analytics,
         establish trusted governance, and build the data foundations required
         for successful AI initiatives.
     </p>
 
-    <div class="hero-buttons">
+    <div class="services-hero-buttons">
 
         <a href="/contact/" class="cta-button">
             Schedule a Consultation
