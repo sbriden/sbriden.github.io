@@ -8,6 +8,11 @@
   padding: 80px 20px;
 }
 
+.hero-section h1{
+    font-size:3rem;
+    margin-bottom:20px;
+}
+
 .hero-left {
   flex: 1;
 }
@@ -24,6 +29,21 @@
   line-height: 1.8;
   color: #4a5568;
   max-width: 700px;
+}
+
+.hero-subtitle{
+    max-width:800px;
+    margin:0 auto 35px auto;
+    font-size:1.2rem;
+    line-height:1.8;
+    color:#64748b;
+}
+
+.hero-buttons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
 }
 
 
@@ -120,6 +140,254 @@
 
 .insight-card a:hover {
   text-decoration: none;
+}
+
+/* SERVICES */
+
+.services-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(340px,1fr));
+
+gap:30px;
+
+margin:50px 0;
+
+}
+
+.service-card{
+
+background:white;
+
+border-radius:14px;
+
+padding:32px;
+
+border:1px solid #e5e7eb;
+
+border-top:6px solid #2b6cb0;
+
+box-shadow:0 6px 20px rgba(0,0,0,.05);
+
+transition:.25s;
+
+}
+
+.service-card:hover{
+
+transform:translateY(-6px);
+
+box-shadow:0 12px 28px rgba(0,0,0,.10);
+
+}
+
+.service-card h3{
+
+margin-top:0;
+
+margin-bottom:15px;
+
+}
+
+.service-card p{
+
+line-height:1.8;
+
+}
+
+.service-list-title{
+
+margin-top:25px;
+
+margin-bottom:10px;
+
+font-weight:700;
+
+color:#2b6cb0;
+
+}
+
+.service-card ul{
+
+margin-top:10px;
+
+padding-left:20px;
+
+}
+
+.service-card li{
+
+margin-bottom:8px;
+
+}
+
+/* CLIENT CARDS */
+.client-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+gap:25px;
+
+margin:40px 0;
+
+}
+
+.client-card{
+
+padding:28px;
+
+border-radius:12px;
+
+background:#f8fafc;
+
+border:1px solid #e5e7eb;
+
+text-align:center;
+
+}
+
+.client-card h3{
+
+margin-top:0;
+
+}
+
+/* ENGAGEMENT CARDS */
+.engagement-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+gap:25px;
+
+margin:40px 0;
+
+}
+
+.engagement-card{
+
+padding:28px;
+
+border:1px solid #e5e7eb;
+
+border-radius:12px;
+
+background:white;
+
+box-shadow:0 4px 12px rgba(0,0,0,.04);
+
+}
+
+.engagement-card h3{
+
+margin-top:0;
+
+}
+
+/* PROCESS */
+.process{
+
+margin:50px 0;
+
+}
+
+.process-item{
+
+display:flex;
+
+align-items:flex-start;
+
+gap:25px;
+
+margin-bottom:35px;
+
+padding-bottom:30px;
+
+border-bottom:1px solid #edf2f7;
+
+}
+
+.process-number{
+
+width:58px;
+
+height:58px;
+
+border-radius:50%;
+
+background:#2b6cb0;
+
+color:white;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+font-size:1.5rem;
+
+font-weight:bold;
+
+flex-shrink:0;
+
+}
+
+.process-item h3{
+
+margin:0 0 10px 0;
+
+}
+
+.process-item p{
+
+margin:0;
+
+line-height:1.8;
+
+color:#64748b;
+
+}
+
+/* CTA BANNER */
+.cta-banner{
+
+margin-top:80px;
+
+padding:60px;
+
+text-align:center;
+
+background:#0f172a;
+
+color:white;
+
+border-radius:16px;
+
+}
+
+.cta-banner h2{
+
+color:white;
+
+margin-top:0;
+
+}
+
+.cta-banner p{
+
+max-width:700px;
+
+margin:20px auto 30px;
+
+color:#cbd5e1;
+
+line-height:1.8;
+
 }
 
 /* BUTTONS */
