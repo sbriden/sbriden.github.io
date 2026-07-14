@@ -7,14 +7,14 @@ title: Home
 
   <div class="hero-left">
 
-    <h1>Modern Data Strategy for Analytics and AI</h1>
+    <h1>Enterprise Data Strategy. Analytics Modernization. AI Readiness.</h1>
 
     <p class="hero-text">
-     Helping organizations modernize data platforms, establish governance, build data products, and create the foundation required for advanced analytics and AI.
+    Helping organizations build trusted, scalable data foundations that drive better decisions and enable AI.
     </p>
 
     <div class="positioning-bar">
-      Data Strategy • Lakehouse Architecture • BI Modernization • Analytics Operating Models
+      Data Strategy • Lakehouse Architecture • Analytics Modernization • AI Readiness
     </div>
 
     <div class="hero-buttons">
