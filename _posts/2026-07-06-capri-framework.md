@@ -298,6 +298,13 @@ All reduce long-term complexity.
 
 # I — Implement
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-implement.PNG' | relative_url }}"
+    alt="Capri Framework Implement"
+    width="800">
+</p>
+
 Only after completing the previous steps should implementation begin.
 
 At this stage, organizations can begin building reusable data products aligned to business capabilities.
@@ -333,6 +340,13 @@ The product remains the foundation.
 ---
 
 # A Practical Example
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-example.PNG' | relative_url }}"
+    alt="Capri Framework Example"
+    width="800">
+</p>
 
 Imagine an insurance company beginning a lakehouse modernization effort.
 
@@ -391,6 +405,13 @@ The result is fewer assets, improved consistency, and a stronger foundation for 
 ---
 
 # Prioritizing Which Data Products to Build First
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-prioritize.PNG' | relative_url }}"
+    alt="Capri Framework Prioritize"
+    width="800">
+</p>
 
 Not every data product should be implemented at once.
 
