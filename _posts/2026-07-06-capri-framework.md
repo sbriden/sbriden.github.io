@@ -255,6 +255,13 @@ These recurring patterns often indicate strong candidates for reusable enterpris
 
 # R — Rationalize
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-rationalize.PNG' | relative_url }}"
+    alt="Capri Framework Rationalize"
+    width="800">
+</p>
+
 This is arguably the most important step in the framework.
 
 And the step most organizations skip.
