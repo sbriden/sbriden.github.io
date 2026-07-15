@@ -408,8 +408,8 @@ The result is fewer assets, improved consistency, and a stronger foundation for 
 
 <p align="center">
   <img
-    src="{{ '/assets/images/capri-framework-prioritize.PNG' | relative_url }}"
-    alt="Capri Framework Prioritize"
+    src="{{ '/assets/images/capri-framework-priority.PNG' | relative_url }}"
+    alt="Capri Framework Priority"
     width="800">
 </p>
 
