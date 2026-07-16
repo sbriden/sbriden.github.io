@@ -452,6 +452,14 @@ Together, these capabilities create a modern data ecosystem designed around busi
 
 ---
 
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/capri-framework-lifecycle.PNG' | relative_url }}"
+    alt="Capri Framework Lifecycle"
+    width="800">
+</p>
+
 # Final Thoughts
 
 Many organizations begin modernization efforts by asking:
