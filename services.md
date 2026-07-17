@@ -2,6 +2,7 @@
 layout: page
 title: Advisory Services
 permalink: /services/
+show_title: false
 ---
 
 <div class="services-hero">
