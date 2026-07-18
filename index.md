@@ -146,44 +146,6 @@ Explore How I Help →
 
 ---
 
-# Featured Case Studies
-
-<div class="case-study-grid">
-
-<div class="case-study-card">
-
-<h3>🚀 Startup Data Platform</h3>
-
-Designed a scalable cloud-native analytics platform to support rapid growth from day one.
-
-<a href="/case-studies/">Read Case Study →</a>
-
-</div>
-
-<div class="case-study-card">
-
-<h3>🏢 Enterprise Modernization</h3>
-
-Modernized legacy reporting and data architecture while improving governance and scalability.
-
-<a href="/case-studies/">Read Case Study →</a>
-
-</div>
-
-<div class="case-study-card">
-
-<h3>🤖 Preparing for AI</h3>
-
-Established trusted data foundations that positioned the organization for enterprise AI initiatives.
-
-<a href="/case-studies/">Read Case Study →</a>
-
-</div>
-
-</div>
-
----
-
 <section class="assessment-banner">
 
 <h2>
