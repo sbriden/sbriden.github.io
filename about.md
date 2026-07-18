@@ -23,7 +23,7 @@ Successful data initiatives aren't limited by technology—they're enabled by st
 
 <div class="about-photo">
 
-<img src="/assets/images/headshot.jpg" alt="Scott Briden" class="headshot">
+<img src="/assets/headshot.png" alt="Scott Briden" class="headshot">
 
 </div>
 
