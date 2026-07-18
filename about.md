@@ -29,7 +29,7 @@ Successful data initiatives aren't limited by technology—they're enabled by st
 
 <div class="about-bio">
 
-## Hi, I'm Scott Briden.
+<h2>Hi, I'm Scott Briden.</h2>
 
 For more than 15 years, I've helped organizations solve complex data and analytics challenges across healthcare, insurance, financial services, manufacturing, and consulting.
 
