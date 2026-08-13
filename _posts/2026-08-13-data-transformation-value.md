@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Measuring Data Transformation by Deliverables. Start Measuring Value."
-date: 2026-06-12
+date: 2026-08-13
 categories: data analytics transformation strategy data-products ai
 excerpt: "A successful data transformation isn't measured by how much technology you migrate. It's measured by the business value and organizational capabilities you create along the way."
 ---
