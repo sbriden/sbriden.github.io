@@ -306,7 +306,6 @@ That's better still.
 
 The progression looks something like this:
 
-```text
 Platform Metric
 
 80% of workloads migrated
