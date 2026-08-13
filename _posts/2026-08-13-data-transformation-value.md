@@ -6,8 +6,6 @@ categories: data analytics transformation strategy data-products ai
 excerpt: "A successful data transformation isn't measured by how much technology you migrate. It's measured by the business value and organizational capabilities you create along the way."
 ---
 
-# Stop Measuring Data Transformation by Deliverables. Start Measuring Value.
-
 Data transformation programs can take years.
 
 New platforms are implemented.
