@@ -327,3 +327,233 @@ Business Metric
 Business Outcome
 
 More time spent managing the business
+
+Each layer provides additional context.
+
+The goal isn't to eliminate platform metrics.
+
+We need them.
+
+The goal is to connect them to the outcomes they are intended to enable.
+
+#Measure Value Throughout the Transformation
+
+Another mistake is waiting until the end of the transformation to measure value.
+
+Large data transformations can take years.
+
+We shouldn't have to wait two years to determine whether we're creating value.
+
+Value should be measured continuously.
+
+For example:
+
+##Early Stage
+
+Focus on foundational improvements.
+
+platform adoption
+data source onboarding
+pipeline reliability
+data quality
+reusable architecture
+
+##Middle Stage
+
+Focus on productivity and adoption.
+
+self-service analytics
+data product adoption
+report retirement
+reduced manual processes
+faster delivery
+
+##Mature Stage
+
+Focus on business and strategic outcomes.
+
+operational improvements
+revenue impact
+cost reduction
+AI adoption
+automation
+customer outcomes
+
+The metrics should evolve as the transformation evolves.
+
+Early in the program, technical metrics are appropriate.
+
+Later, business outcomes should dominate.
+
+#Retirement Is a Value Metric Too
+
+One of the easiest things to overlook during modernization is what gets removed.
+
+Organizations often celebrate what they build.
+
+They should also celebrate what they retire.
+
+If a new data product replaces 25 legacy reports, that's value.
+
+If a modern semantic model eliminates five duplicate datasets, that's value.
+
+If self-service analytics eliminates a recurring manual spreadsheet process, that's value.
+
+If a legacy warehouse workload can finally be decommissioned, that's value.
+
+Modernization isn't just about creating new capabilities.
+
+It's also about eliminating unnecessary complexity.
+
+A successful transformation should make the environment simpler over time.
+
+Not more complicated.
+
+#Data Products Make Value Easier to Measure
+
+This is one of the reasons I believe data product thinking is so important.
+
+A report is difficult to measure beyond usage.
+
+A data product can have a much broader value story.
+
+Consider a Claims Performance Data Product.
+
+It might support:
+
+executive reporting
+operational dashboards
+analyst self-service
+predictive analytics
+AI applications
+automated workflows
+
+Now we can measure value across multiple consumers.
+
+Instead of asking:
+
+"Did we build the dashboard?"
+
+We can ask:
+
+"What business capabilities does this product enable?"
+
+That is a much more meaningful question.
+
+#Connecting Value to the Transformation Roadmap
+
+Ultimately, every major initiative in a data transformation should have a value hypothesis.
+
+Before starting the work, we should be able to explain:
+
+What problem are we solving?
+
+Who benefits?
+
+What capability are we creating?
+
+How will we measure adoption?
+
+What business outcome are we targeting?
+
+How will we know whether the investment worked?
+
+This doesn't mean every data initiative needs a perfect ROI calculation.
+
+Some investments are foundational.
+
+Some reduce risk.
+
+Some create future capabilities.
+
+Some improve developer productivity.
+
+The important thing is being explicit about what value the investment is expected to create.
+
+#A Simple Value Framework
+
+A practical way to think about the transformation is:
+
+Investment
+    ↓
+Capability
+    ↓
+Adoption
+    ↓
+Business Outcome
+    ↓
+Strategic Value
+
+For example:
+
+Lakehouse Investment
+    ↓
+Reusable Data Products
+    ↓
+Increased Self-Service Adoption
+    ↓
+Faster Business Decisions
+    ↓
+Greater Organizational Agility
+
+The further we can connect the dots, the stronger the transformation story becomes.
+
+#The Ultimate Measure
+
+At the beginning of a transformation, the organization may ask:
+
+How much data can we migrate?
+
+Eventually, the question should become:
+
+How much more value can we create with our data?
+
+That is the real shift.
+
+A modern data platform isn't valuable because it runs on newer technology.
+
+A data product isn't valuable because it exists.
+
+A dashboard isn't valuable because it was delivered.
+
+AI isn't valuable because a model was deployed.
+
+They are valuable because they improve something that matters to the organization.
+
+#Final Thoughts
+
+Data transformation programs are often measured by what gets delivered.
+
+Platforms implemented.
+
+Reports migrated.
+
+Pipelines built.
+
+Data products created.
+
+Those things matter.
+
+But they are only part of the story.
+
+The real measure of transformation is what changes because of those investments.
+
+Are people making better decisions?
+
+Are teams moving faster?
+
+Are manual processes disappearing?
+
+Is trust in data increasing?
+
+Are new capabilities becoming possible?
+
+Is the organization better positioned to leverage AI?
+
+Those are the questions that matter.
+
+Because at the end of the day, the goal of a data transformation isn't to build a better data platform.
+
+It's to build a more capable organization.
+
+And the best transformations are the ones where you can clearly demonstrate that value every step of the way.
