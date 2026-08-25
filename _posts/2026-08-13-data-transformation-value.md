@@ -132,6 +132,13 @@ And without measurable improvement, transformation programs eventually become di
 
 # Five Dimensions of Data Transformation Value
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/transformation-value-framework.PNG' | relative_url }}"
+    alt="Transformation Value Framework"
+    width="800">
+</p>
+
 I generally think about transformation value across five areas.
 
 ## 1. Business Value
