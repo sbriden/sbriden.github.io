@@ -174,7 +174,7 @@ The technology is the enabler.
 
 The business outcome is the value.
 
-# 2. Adoption and Consumption
+## 2. Adoption and Consumption
 
 A data product has no value if nobody uses it.
 
@@ -219,7 +219,7 @@ Or maybe the product shouldn't exist at all.
 
 That's valuable information.
 
-# 3. Delivery and Engineering Efficiency
+## 3. Delivery and Engineering Efficiency
 
 One of the biggest opportunities created by modern data platforms is reducing the amount of effort required to deliver analytics.
 
@@ -243,7 +243,7 @@ The platform isn't simply newer.
 
 The organization can now move faster.
 
-# 4. Data Quality and Trust
+## 4. Data Quality and Trust
 
 Speed doesn't matter if nobody trusts the answer.
 
@@ -268,7 +268,7 @@ A modern data platform doesn't automatically solve that.
 
 The organization needs to create trusted data products and establish consistent definitions around them.
 
-# 5. Strategic Enablement
+## 5. Strategic Enablement
 
 This is one of the most important dimensions of transformation value.
 
