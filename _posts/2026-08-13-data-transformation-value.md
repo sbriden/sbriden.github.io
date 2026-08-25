@@ -364,7 +364,7 @@ We need them.
 
 The goal is to connect them to the outcomes they are intended to enable.
 
-#Measure Value Throughout the Transformation
+# Measure Value Throughout the Transformation
 
 <p align="center">
   <img
@@ -383,7 +383,7 @@ Value should be measured continuously.
 
 For example:
 
-##Early Stage
+## Early Stage
 
 Focus on foundational improvements.
 
@@ -393,7 +393,7 @@ pipeline reliability
 data quality
 reusable architecture
 
-##Middle Stage
+## Middle Stage
 
 Focus on productivity and adoption.
 
@@ -403,7 +403,7 @@ report retirement
 reduced manual processes
 faster delivery
 
-##Mature Stage
+## Mature Stage
 
 Focus on business and strategic outcomes.
 
@@ -420,7 +420,7 @@ Early in the program, technical metrics are appropriate.
 
 Later, business outcomes should dominate.
 
-#Retirement Is a Value Metric Too
+# Retirement Is a Value Metric Too
 
 One of the easiest things to overlook during modernization is what gets removed.
 
@@ -444,7 +444,7 @@ A successful transformation should make the environment simpler over time.
 
 Not more complicated.
 
-#Data Products Make Value Easier to Measure
+# Data Products Make Value Easier to Measure
 
 This is one of the reasons I believe data product thinking is so important.
 
@@ -475,7 +475,7 @@ We can ask:
 
 That is a much more meaningful question.
 
-#Connecting Value to the Transformation Roadmap
+# Connecting Value to the Transformation Roadmap
 
 Ultimately, every major initiative in a data transformation should have a value hypothesis.
 
@@ -505,7 +505,7 @@ Some improve developer productivity.
 
 The important thing is being explicit about what value the investment is expected to create.
 
-#A Simple Value Framework
+# A Simple Value Framework
 
 <p align="center">
   <img
@@ -540,7 +540,7 @@ Greater Organizational Agility
 
 The further we can connect the dots, the stronger the transformation story becomes.
 
-#The Ultimate Measure
+# The Ultimate Measure
 
 At the beginning of a transformation, the organization may ask:
 
@@ -562,7 +562,7 @@ AI isn't valuable because a model was deployed.
 
 They are valuable because they improve something that matters to the organization.
 
-#Final Thoughts
+# Final Thoughts
 
 Data transformation programs are often measured by what gets delivered.
 
