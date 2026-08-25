@@ -509,8 +509,8 @@ The important thing is being explicit about what value the investment is expecte
 
 <p align="center">
   <img
-    src="{{ '/assets/images/transformation-value-conclusion.PNG' | relative_url }}"
-    alt="Transformation Value Conclusion"
+    src="{{ '/assets/images/transformation-value-chain.PNG' | relative_url }}"
+    alt="Transformation Value Chain"
     width="800">
 </p>
 
