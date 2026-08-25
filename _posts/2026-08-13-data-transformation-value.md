@@ -301,6 +301,13 @@ It's in what the platform makes possible.
 
 # Don't Confuse Platform Metrics With Transformation Metrics
 
+<p align="center">
+  <img
+    src="{{ '/assets/images/transformation-value-metrics.PNG' | relative_url }}"
+    alt="Transformation Value Metrics"
+    width="800">
+</p>
+
 This distinction is worth emphasizing.
 
 Consider a typical modernization program.
@@ -358,6 +365,13 @@ We need them.
 The goal is to connect them to the outcomes they are intended to enable.
 
 #Measure Value Throughout the Transformation
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/transformation-value-evolution.PNG' | relative_url }}"
+    alt="Transformation Value Evolution"
+    width="800">
+</p>
 
 Another mistake is waiting until the end of the transformation to measure value.
 
@@ -492,6 +506,13 @@ Some improve developer productivity.
 The important thing is being explicit about what value the investment is expected to create.
 
 #A Simple Value Framework
+
+<p align="center">
+  <img
+    src="{{ '/assets/images/transformation-value-conclusion.PNG' | relative_url }}"
+    alt="Transformation Value Conclusion"
+    width="800">
+</p>
 
 A practical way to think about the transformation is:
 
